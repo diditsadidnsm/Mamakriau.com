@@ -1,0 +1,15 @@
+[13-Sep-2021 12:04:02 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Project::nonprofit() in /home/mamakriau/public_html/application/controllers/member/Project.php on line 46
+[13-Sep-2021 12:04:04 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Project::nonprofit() in /home/mamakriau/public_html/application/controllers/member/Project.php on line 46
+[13-Sep-2021 12:04:06 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Project::nonprofit() in /home/mamakriau/public_html/application/controllers/member/Project.php on line 46
+[13-Sep-2021 12:04:07 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Project::nonprofit() in /home/mamakriau/public_html/application/controllers/member/Project.php on line 46
+[13-Sep-2021 12:04:08 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Project::nonprofit() in /home/mamakriau/public_html/application/controllers/member/Project.php on line 46
+[13-Sep-2021 12:04:14 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Project::nonprofit() in /home/mamakriau/public_html/application/controllers/member/Project.php on line 46
+[13-Sep-2021 12:04:18 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Project::nonprofit() in /home/mamakriau/public_html/application/controllers/member/Project.php on line 46
+[13-Sep-2021 12:04:22 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Project::nonprofit() in /home/mamakriau/public_html/application/controllers/member/Project.php on line 46
+[14-Sep-2021 12:41:57 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Project_model::getValidationRules() in /home/mamakriau/public_html/application/models/Project_model.php on line 133
+[16-Sep-2021 08:26:24 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Dashboard_model::get_data_stok() in /home/mamakriau/public_html/application/models/Dashboard_model.php on line 47
+[16-Sep-2021 08:26:45 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Dashboard_model::get_data_stok() in /home/mamakriau/public_html/application/models/Dashboard_model.php on line 47
+[16-Sep-2021 08:27:03 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Dashboard_model::get_data_stok() in /home/mamakriau/public_html/application/models/Dashboard_model.php on line 47
+[16-Sep-2021 08:27:03 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Dashboard_model::get_data_stok() in /home/mamakriau/public_html/application/models/Dashboard_model.php on line 47
+[16-Sep-2021 08:27:32 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Dashboard_model::get_data_stok() in /home/mamakriau/public_html/application/models/Dashboard_model.php on line 47
+[16-Sep-2021 08:28:36 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Dashboard_model::get_data_stok() in /home/mamakriau/public_html/application/models/Dashboard_model.php on line 47

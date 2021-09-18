@@ -1,0 +1,904 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202104 will be lost/reset.
+# Last config file used to build this data file was /home/mamakriau/tmp/awstats/ssl/awstats.mamakriau.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2695                
+POS_VISITOR 18166               
+POS_DAY 28954               
+POS_DOMAIN 3472                
+POS_LOGIN 4044                
+POS_ROBOT 4199                
+POS_WORMS 4874                
+POS_EMAILSENDER 5005                
+POS_EMAILRECEIVER 5148                
+POS_SESSION 29205               
+POS_SIDER 29413               
+POS_FILETYPES 5283                
+POS_DOWNLOADS 5499                
+POS_OS 5547                
+POS_BROWSER 5782                
+POS_SCREENSIZE 7922                
+POS_UNKNOWNREFERER 7996                
+POS_UNKNOWNREFERERBROWSER 8620                
+POS_ORIGIN 8853                
+POS_SEREFERRALS 8996                
+POS_PAGEREFS 9219                
+POS_SEARCHWORDS 11468               
+POS_KEYWORDS 11620               
+POS_MISC 2357                
+POS_ERRORS 11679               
+POS_CLUSTER 3900                
+POS_SIDER_404 11819               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210415185527 95 19230 6625497913412
+FirstTime 20210401000710
+LastTime 20210415121429
+LastUpdate 20210415200813 95 0 95 0 0
+TotalVisits 323                 
+TotalUnique 286                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 286                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 250 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 47 47 26976 46 83 72835
+1 24 112 3884440 58 87 78470
+2 5 5 12863 79 110 111254
+3 9 9 27756 63 89 1101894
+4 6 6 2983 96 134 213818
+5 5 5 12913 52 71 114751
+6 6 6 9507 44 60 63871
+7 33 33 115765 71 98 90275
+8 7 7 3012 71 101 121333
+9 11 11 32577 111 132 147416
+10 5 5 5924 88 153 1144439
+11 4 4 6314 42 62 55449
+12 6 6 14028 84 136 126575
+13 27 27 60649 88 143 134762
+14 18 18 14427 79 126 117359
+15 13 13 30214 93 148 136331
+16 31 58 726798 90 119 120021
+17 124 124 73811 159 281 193341
+18 74 74 31404 137 221 187730
+19 31 31 12420 82 140 116420
+20 7 7 9450 46 68 67368
+21 3 3 1204 37 58 72643
+22 38 38 145092 60 96 93519
+23 14 14 44498 47 61 67817
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 28
+us 201 254 1942904
+in 111 111 46881
+id 87 87 293754
+bd 26 26 10866
+au 24 24 16848
+pk 18 18 7488
+np 14 48 2234622
+cn 11 11 11927
+za 8 36 703211
+iq 7 7 2877
+ph 6 6 2466
+de 5 5 4691
+ca 5 5 2145
+no 4 4 8628
+hu 4 4 1644
+tr 3 3 1233
+ua 2 2 822
+eu 2 2 7818
+ar 1 1 411
+me 1 1 411
+br 1 1 411
+ru 1 1 411
+gb 1 1 456
+mn 1 1 411
+md 1 1 456
+az 1 1 411
+kh 1 1 411
+nz 1 1 411
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+bingbot/ 38 1154011 20210415102720 4
+Googlebot/ 29 107288 20210415055038 1
+bingpreview 18 1016341 20210401104706 0
+YandexBot/ 15 80450 20210415143441 0
+bot[\s_+:,\.\;\/\\-] 13 56127 20210415071141 0
+facebookexternalhit/ 11 34137 20210415122503 0
+YandexImages/ 7 29645 20210415134720 0
+yandex 6 25410 20210415143422 0
+crawl 4 8470 20210415185527 0
+[\s_+:,\.\;\/\\-]bot 2 340 20210401182340 2
+MJ12bot/ 2 732 20210401101330 1
+AhrefsBot/ 1 3903 20210414040133 0
+AdsBot\-Google[\x20]\( 1 411 20210401182108 0
+Validator\.nu/ 1 456 20210401122406 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 52 260924 0 0
+js 24 672164 0 0
+html 393 206683 0 0
+cgi 122 480458 0 0
+Unknown 27 113046 0 0
+woff2 6 279612 0 0
+jpg 20 795170 0 0
+png 19 2496968 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+macosx9 2 2
+win7 40 40
+linux 34 34
+win10 106 106
+winxp 1 1
+ios_iphone 8 8
+win8.1 5 5
+winvista 1 1
+linuxandroid 433 318
+ios_ipad 6 6
+macosx 7 7
+Unknown 18 18
+macosx8 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 94
+chrome60.0.3112.116 2 2
+firefox53.0 1 1
+chrome66.0.3359.117 3 3
+chrome84.0.4147.105 1 1
+chrome88.0.4324.181 15 15
+chrome85.0.4183.102 2 2
+chrome74.0.3729.136 5 5
+chrome80.0.3987.119 1 1
+chrome83.0.4103.7 2 2
+chrome64.0.3282.137 4 4
+Unknown 6 6
+chrome81.0.4044.138 10 10
+firefox87.0 3 3
+safari12.1.1 1 1
+chrome75.0.3770.143 4 4
+opera44.6.2246.127414 1 1
+chrome49.0.2623.112 1 1
+chrome83.0.4103.83 18 18
+safari 2 2
+safari11.0 3 3
+chrome55.0.2883.87 1 1
+chrome79.0.3945.116 34 7
+chrome66.0.3359.66 2 2
+chrome83.0.4103.101 31 5
+chrome61.0.3163.128 1 1
+firefox81.0 3 3
+opera74.0.3911.218 1 1
+chrome78.0.3904.87 1 1
+chrome79.0.3945.136 2 2
+chrome88.0.4324.146 3 3
+chrome80.0.3987.99 5 5
+chrome42.0.2311.90 1 1
+safari14.0.1 2 2
+chrome84.0.4147.125 1 1
+chrome89.0.4389.112 1 1
+chrome79.0.3945.147 1 1
+safari9.0 1 1
+chrome71.0.3578.99 3 3
+chrome52.0.1500.95 18 18
+chrome62.0.3202.84 6 6
+chrome53.0.2785.116 1 1
+firefox59.0 2 2
+chrome89.0.4389.105 152 124
+firefox84.0 2 2
+chrome79.0.3945.79 1 1
+chrome65.0.3325.109 1 1
+chrome57.0.2987.108 3 3
+chrome87.0.4280.86 1 1
+chrome41.0.2225.0 1 1
+chrome90.0.4430.41 1 1
+chrome78.0.3904.96 4 4
+chrome86.0.4240.99 1 1
+opera58.2.2878.53403 1 1
+chrome86.0.4240.198 2 2
+chrome88.0.4324.141 1 1
+chrome88.0.4324.93 4 4
+chrome70.0.3538.80 1 1
+chrome88.0.4324.182 1 1
+chrome56.0.2924.87 2 2
+chrome85.0.4183.101 3 3
+msie11.0 5 5
+chrome51.0.2704.103 2 2
+chrome35.0.1916.47 2 2
+mozilla 8 8
+chrome44.0.2403.119 1 1
+chrome78.0.3904.108 3 3
+opera54.0.2254.56148 1 1
+chrome68.0.3440.91 1 1
+chrome76.0.3809.132 2 2
+chrome83.0.4103.106 17 17
+chrome80.0.3987.132 1 1
+chrome59.0.3071.125 18 18
+chrome89.0.4389.86 1 1
+firefox21.0 2 2
+chrome 1 1
+chrome87.0.4280.141 4 4
+safari12.1.2 2 2
+chrome70.0.3538.110 4 4
+chrome89.0.4389.90 67 33
+opera55.0.2254.56695 1 1
+chrome55.0.2883.91 1 1
+chrome89.0.4389.114 79 79
+chrome75.0.3770.67 1 1
+chrome87.0.4280.101 7 7
+chrome41.0.2227.0 1 1
+chrome38.0.1025.166 3 3
+chrome66.0.3359.139 5 5
+chrome67.0.3396.79 1 1
+chrome71.0.3578.141 1 1
+chrome86.0.4240.110 1 1
+safari14.0.3 3 3
+chrome83.0.4103.97 25 25
+chrome88.0.4324.150 1 1
+netscape5.0 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20210414024312
+Mozilla/5.0_(compatible;_evc-batch/2.0) 20210412223504
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20210406161244
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_GoogleAdwordsExpress)_Chrome/89.0.4389.112_Safari/537.36 20210412172732
+Mozilla/5.0_zgrab/0.x 20210413174142
+\ 20210401062641
+GRequests/0.10 20210401040846
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20210413070257
+Go-http-client/1.1 20210401080147
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20210414024312
+\ 20210401062641
+GRequests/0.10 20210401040846
+Go-http-client/1.1 20210401080147
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 237 237
+From1 0 0
+From2 53 53
+From3 189 189
+From4 69 184
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+www_google_com_hk 1 1
+google_com 2 2
+www_google_com 49 49
+www_google_co_uk 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 31
+https://googleads.g.doubleclick.net 73 73
+https://googleads.g.doubleclick.net/pagead/ads 52 52
+https://www.webdesignfact.com 12 12
+https://googleads.g.doubleclick.net/pagead/html/r20210329/r20190131/zrt_lookup.html 10 10
+https://hindi.scoopwhoop.com 5 5
+http://www.veedi.com 4 4
+https://techus.website 3 3
+http://139.99.114.235 3 3
+http://imasdk.googleapis.com/js/core/bridge3.448.1_en.html 2 2
+http://139.99.114.235:80 2 2
+https://www.hindustantimes.com 2 2
+https://73fbdf3bac716e2b2897af0e5ac0b642.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html 2 2
+https://www-deccanchronicle-com.cdn.ampproject.org/v/s/www.deccanchronicle.com/amp/entertainment/bollywood/300816/watch-15-year-old-salman-khans-first-advertisement-with-tiger-shroffs-mother.html 1 1
+https://5f3ac5026eb39a3dce6de4be5fc7659a.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html 1 1
+https://poki.com 1 1
+https://webrate.org 1 1
+https://www-abplive-com.cdn.ampproject.org/v/s/www.abplive.com/entertainment/aishwarya-rai-bachchan-shares-holi-celebrations-photo-celebrates-holi-with-daughter-aaradhya-1839193/amp 1 1
+https://www.freepik.com 1 1
+https://www-newsnationtv-com.cdn.ampproject.org/v/s/www.newsnationtv.com/amp/entertainment/tv/fevicol-60-year-celebration-ad-sharmain-ka-sofa-viral-on-social-media-watch-here-103669.html 1 1
+https://www-sarkariyojnaa-com.cdn.ampproject.org/v/s/www.sarkariyojnaa.com/my-lpg-dealership/ 1 1
+https://m-gsmarena-com.cdn.ampproject.org/v/s/m.gsmarena.com/xiaomi_unveils_new_logo-amp-48439.php 1 1
+http://m.facebook.com 1 1
+https://4e84b23278cabb895b2cb1e58ae5558a.safeframe.googlesyndication.com 1 1
+https://www.hindustantimes.com/lifestyle/fashion/dia-mirza-in-rs-20k-chic-yet-comfy-kurta-looks-beauteous-at-wild-dog-promotions-101617263226330-amp.html 1 1
+https://l.wl.co 1 1
+https://koplayer.en.uptodown.com 1 1
+https://21cc23d96f5eae86d60f643673dcb8ac.safeframe.googlesyndication.com 1 1
+https://9a1178c3c53806fb4d85822b400f3943.safeframe.googlesyndication.com 1 1
+http://www.mediafire.com 1 1
+https://139.99.114.235:443 1 1
+https://www.carscoops.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 187 121308
+307 1 0
+403 1137 1364424
+404 581 709464
+500 30 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 167
+/demo/rss/catalog/review 1 -
+/store/rss/catalog/review 1 -
+/test/rss/catalog/notifystock 1 -
+/images/detail/the-affiliate-incubator-20210228101353.png 1 -
+/magento/index.php/admin/ 1 -
+//website/wp-includes/wlwmanifest.xml 3 -
+/project/detail/exquisite-moon 2 -
+/blog/detail/examples-of-good-branding-strategies 1 -
+/index.php/laravel/_ignition/health-check/ 1 http://mamakriau.com/laravel/_ignition/health-check/
+/magento/rss/catalog/notifystock 1 -
+/images/blog/how-to-build-a-great-brand-identity-20210216130842.png 1 -
+/index.php/blog/wp-login.php 4 -
+/assets/dark-mode/img/portfolio/works/2.jpg 1 -
+/old/rss/catalog/notifystock 1 -
+//wp-includes/wlwmanifest.xml 3 -
+/index.php/contact 1 -
+/term-and-conditions.pdf 1 -
+//blog/wp-includes/wlwmanifest.xml 3 -
+/shop/index.php/admin/ 1 -
+/project/category/graphic-design-project 1 -
+/demo/rss/catalog/notifystock 1 -
+/the%20Affilate%20Incubator 1 -
+/blog/detail/brand-immersion-value-in-marketing 2 -
+/project/detail/tecumsehs-book-ranch 1 -
+//media/wp-includes/wlwmanifest.xml 3 -
+//test/wp-includes/wlwmanifest.xml 2 -
+/project/detail/www-evos-gg 2 -
+/images/product/waste-medic-20210206083633.png 1 -
+/images/detail/foro-appio-mansion-hotel-ss7-04100-borgo-faiti-lt-italia-20210228101541.jpg 1 -
+//site/wp-includes/wlwmanifest.xml 3 -
+/staging/rss/catalog/notifystock 1 -
+/old/downloader/index.php 1 -
+/test/index.php/admin/ 1 -
+/demo/errors/503.php 1 -
+/blog/detail/adobe-corner 1 https://www.google.com/
+/index.php/.env 2 -
+/www.cocove.sa 1 -
+/blog/detail/build-a-great-brand-identity 6 -
+/exquisite%20moon 1 -
+/sitemap.xml.gz 9 -
+/dev/rss/catalog/review 1 -
+/staging/rss/catalog/review 1 -
+/downloader/index.php 1 -
+/staging/index.php/admin/ 1 -
+/staging/rss/order/new 1 -
+/old/rss/order/new 2 -
+/magento/rss/catalog/review 1 -
+/project/detail/ 1 -
+/blog/detail/dont-pay-big-city-prices 5 https://mamakriau.com/blog/detail/dont-pay-big-city-prices
+/staging/errors/503.php 1 -
+//xmlrpc.php 2 -
+/magento/downloader/index.php 1 -
+/dev/rss/catalog/notifystock 2 -
+//web/wp-includes/wlwmanifest.xml 3 -
+//wp1/wp-includes/wlwmanifest.xml 3 -
+/blog/detail/remove-background 11 https://www.google.com/
+/project/detail/waste-medic 1 -
+/contact 20 -
+/index.php/wp-login.php 14 http://mamakriau.com/wp-login.php
+/mamakriau.com 1 -
+/store/downloader/index.php 1 -
+/shop/rss/order/new 1 -
+/blog/detail/can-help-increase-business 1 -
+/project/detail/angeles-contables 1 -
+/project/detail/cocove 2 -
+/index.php/about 2 -
+/sitemap-index.xml 1 -
+/images/detail/exquisite-moon-20210228101946.jpg 1 -
+/images/blog/dont-underestimate-this-is-the-importance-of-awareness-engagement-before-becoming-profitable-20210218110734.jpg 1 -
+/sitemaps.xml 8 -
+//wp2/wp-includes/wlwmanifest.xml 3 -
+/images/detail/foro-appio-mansion-hotel-20210206195310.jpg 1 -
+//2018/wp-includes/wlwmanifest.xml 3 -
+/project/category/strategic-brand-solution 7 -
+//2019/wp-includes/wlwmanifest.xml 3 -
+/errors/503.php 1 -
+/wp-sitemap.xml 1 -
+/apple-app-site-association 7 -
+/project/detail/the-affiliate-incubator 2 -
+/.well-known/apple-app-site-association 9 -
+/project 10 -
+/old/index.php/admin/ 1 -
+/rss/catalog/review 1 -
+/ads.txt 5 -
+/project/detail/tecumsehs-bookranch 2 -
+/test/rss/order/new 1 -
+//wordpress/wp-includes/wlwmanifest.xml 2 -
+//wp/wp-includes/wlwmanifest.xml 3 -
+/project/detail/phoenix-solar-panel-system 2 -
+/old/errors/503.php 1 -
+/magento/errors/503.php 1 -
+/blog/detail/brand-immersion-value-in-marketing-strategy 2 -
+/test/downloader/index.php 1 -
+//sito/wp-includes/wlwmanifest.xml 3 -
+/sitemap_index.xml 9 -
+/index.php/wp-content/ 1 -
+/images/blog/brand-design-strategy-20210212064829.png 2 -
+/magento/rss/order/new 1 -
+/value%20Services%20GMBH 1 -
+/shop/downloader/index.php 1 -
+//news/wp-includes/wlwmanifest.xml 3 -
+/blog/detail/How-to-build-a-great-brand-identity 7 -
+/login 12 -
+/dev/index.php/admin/ 1 -
+/images/blog/examples-of-good-branding-strategies-20210217103535.jpg 1 -
+/graphic-design-project 1 -
+/rss/order/new 1 -
+/https://mamakriau.com/ 1 -
+/project/detail/cinelight-photography 2 -
+/about 39 -
+/index.php/wp/wp-login.php 5 -
+/dev/errors/503.php 1 -
+/project/detail/indonesiatrip-id 1 -
+/index.php/wordpress/wp-login.php 5 -
+/store/rss/catalog/notifystock 1 -
+/blog 32 -
+//cms/wp-includes/wlwmanifest.xml 3 -
+//shop/wp-includes/wlwmanifest.xml 3 -
+/demo/rss/order/new 1 -
+/images/detail/javtore-20210207012918.png 1 -
+/staging/downloader/index.php 1 -
+/index.php/_ignition/health-check/ 1 http://mamakriau.com/_ignition/health-check/
+/admin 1 -
+/project/detail/affiliate-incubator 3 -
+/index.php/humans.txt 1 http://mamakriau.com/humans.txt
+/familyassetallocator.com 1 -
+/project/detail/phoenix-solarpanelsystem 1 -
+/images/icon/our-goals-20210228094810.png 2 -
+/sitemap.txt 8 -
+//images/team/developer-opps-20210226010536.jpg 1 https://www.google.com/
+/4d55c073-87cb-42c9-b70d-44fbe4904241 1 -
+/store/index.php/admin/ 1 -
+/sitemap.xml 9 -
+/index.php/robots.txt 50 -
+/shop/errors/503.php 1 -
+/wp-admin 1 -
+/old/rss/catalog/review 1 -
+/blog/detail/awareness-engagement-before-becoming-profitable 1 -
+/project/category/web-app-development 4 -
+/index.php/ads.txt 6 -
+/dev/downloader/index.php 1 -
+/dev/rss/order/new 1 -
+/project/detail/javtore 1 -
+/store/errors/503.php 1 -
+/store/rss/order/new 1 -
+/rss/catalog/notifystock 1 -
+/images/product/cinelight-photography-20210207080719.png 1 -
+/test/rss/catalog/review 1 -
+/strategic-brand-solution 1 -
+/atom.xml 8 -
+/index.php/projects 3 -
+/shop/rss/catalog/review 1 -
+/shop/rss/catalog/notifystock 1 -
+/images/blog/brand-loyalty-20210217100224.jpg 1 -
+/robots.txt 69 -
+/project/detail/foro-appio-mansion-hotel 3 -
+/assets/dark-mode/img/portfolio/works/4.jpg 1 -
+/assets/dark-mode/img/portfolio/works/3.jpg 1 -
+/images/author/owner-20210208021745.png 1 -
+/test/errors/503.php 1 -
+/demo/index.php/admin/ 1 -
+/images/team/ui-ux-designer-20210226010543.jpg 2 -
+/blog/detail/brand-design-strategy 6 https://www.google.com/
+/demo/downloader/index.php 1 -
+/images/icon/our-mission-20210228094931.png 2 -
+/app-ads.txt 3 -
+/index.php/admin/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 286
+118.96.131.123 75 75 288822 20210415035512
+157.47.208.242 44 44 18084 20210401175030
+203.171.101.33 18 18 7398 20210401165721
+36.72.214.149 9 9 3699 20210402010908
+103.120.160.181 8 8 3288 20210401175919
+64.233.173.17 7 7 2877 20210401190259
+64.233.173.19 6 6 2466 20210402001001
+43.231.133.26 5 5 2280 20210401183818
+27.34.17.148 5 39 2230698 20210402013801
+64.233.173.18 5 5 2055 20210402001000
+72.255.21.113 4 4 1644 20210401174124
+58.145.187.253 4 4 1644 20210401184805
+58.84.33.50 4 4 1644 20210401191554
+162.243.152.175 4 4 15636 20210401092208
+196.89.224.114 4 32 701567 20210402011113
+103.138.226.2 4 4 1644 20210401144655
+157.42.69.243 4 31 674818 20210401163237
+103.134.60.172 3 3 1233 20210401135922
+64.71.131.244 3 3 9206 20210412223504
+209.126.103.114 3 3 1368 20210402000556
+209.126.103.115 3 3 1368 20210402000242
+138.246.253.5 3 3 0 20210401213807
+209.190.2.178 3 3 1368 20210402001417
+74.120.14.54 3 3 5147 20210413070257
+114.142.168.21 3 3 1233 20210401000803
+146.196.45.112 1 1 411 20210401122248
+27.34.47.54 1 1 456 20210401174345
+147.158.77.84 1 1 411 20210402001432
+209.190.95.42 1 1 456 20210401172210
+95.155.14.123 1 1 411 20210401175835
+157.33.37.71 1 1 411 20210402000240
+185.14.249.205 1 1 411 20210401030833
+119.30.39.180 1 1 411 20210401132504
+157.36.140.45 1 1 411 20210401191354
+74.120.14.55 1 1 4235 20210412070337
+223.238.101.178 2 2 867 20210402000947
+27.56.12.184 2 2 822 20210401174929
+27.34.20.203 1 1 456 20210401125834
+136.158.28.12 1 1 411 20210401172028
+49.34.184.93 1 1 411 20210401190142
+34.245.23.218 1 1 456 20210401040622
+8.210.229.238 1 1 4235 20210412013148
+103.209.229.2 2 2 867 20210401181119
+23.106.219.67 2 2 5492 20210401115233
+157.32.94.77 1 1 411 20210401191018
+162.158.54.45 2 2 912 20210401161541
+49.32.214.222 1 1 456 20210401174921
+118.103.239.231 1 1 456 20210401063910
+157.42.44.208 1 1 411 20210401182156
+157.43.187.159 1 1 411 20210401175037
+42.108.43.249 1 1 411 20210401182516
+162.243.114.29 2 2 7818 20210401074844
+182.70.253.86 1 1 411 20210401184632
+39.40.250.114 1 1 411 20210401180520
+157.36.246.30 2 2 822 20210401173045
+52.27.145.148 1 1 456 20210401070334
+27.34.104.85 1 1 456 20210401183853
+132.154.103.126 1 1 411 20210402020955
+103.35.168.173 2 2 822 20210401214614
+44.235.90.234 1 1 4235 20210414075943
+52.42.114.248 1 1 4235 20210415072530
+27.97.223.148 1 1 456 20210401182025
+114.142.168.22 2 2 7806 20210411235736
+136.158.30.171 2 2 7806 20210412205207
+118.179.64.1 1 1 456 20210401170601
+14.102.49.2 1 1 411 20210401175307
+157.39.98.150 1 1 411 20210401181302
+62.201.221.219 1 1 411 20210401190607
+43.224.1.209 1 1 411 20210401183847
+167.99.96.32 1 1 456 20210401192208
+49.36.157.227 2 2 912 20210402014413
+117.241.3.24 1 1 456 20210402002752
+52.12.153.109 1 1 4235 20210414072003
+37.239.41.39 1 1 411 20210401184400
+103.231.217.142 1 1 411 20210401171419
+34.222.21.84 1 1 4235 20210414075916
+171.13.14.83 1 1 3903 20210414232011
+47.9.195.135 1 1 456 20210401184059
+103.199.182.11 1 1 411 20210401184522
+103.25.250.242 1 1 456 20210402000235
+103.87.56.221 1 1 456 20210402000948
+103.149.167.174 1 1 411 20210401191304
+37.239.151.10 1 1 411 20210401173433
+178.150.42.65 2 2 822 20210401200042
+43.224.0.186 1 1 411 20210402013855
+192.35.168.176 1 1 456 20210401183544
+54.212.71.196 1 1 456 20210401070337
+54.201.13.244 1 1 456 20210401080130
+34.219.81.185 1 1 4235 20210415072448
+157.39.62.205 1 1 411 20210401171408
+178.62.75.175 2 2 7818 20210401013628
+27.60.87.7 2 2 912 20210401171700
+39.34.147.170 2 2 822 20210401082044
+157.47.211.60 1 1 456 20210401174050
+223.189.240.251 1 1 411 20210401170503
+157.34.168.37 1 1 411 20210401183802
+80.245.109.194 1 1 456 20210401182036
+157.42.103.170 1 1 411 20210401173047
+202.164.137.128 1 1 411 20210401065412
+88.228.71.58 1 1 411 20210401220848
+62.201.242.253 1 1 411 20210401205758
+117.209.147.223 1 1 411 20210401191240
+103.242.21.250 1 1 411 20210401161633
+37.111.239.72 1 1 411 20210401181808
+54.200.43.65 1 1 4235 20210415072519
+45.55.254.59 2 2 7818 20210401061703
+58.53.128.88 1 1 456 20210401040846
+103.15.43.9 1 1 456 20210401190257
+103.25.250.250 1 1 411 20210401180953
+37.236.66.15 1 1 411 20210401112427
+119.30.41.181 1 1 411 20210401142409
+223.238.216.34 1 1 411 20210402001232
+44.234.110.24 1 1 456 20210401080130
+47.113.243.170 1 1 4235 20210412100845
+106.219.55.252 1 1 456 20210401171308
+171.79.176.218 1 1 411 20210401135812
+209.51.197.34 2 2 912 20210402000555
+137.226.113.44 2 2 4691 20210415121429
+106.206.205.192 1 1 411 20210401130607
+103.25.251.228 2 2 822 20210401182851
+27.34.17.66 1 1 456 20210402003533
+157.38.49.219 1 1 411 20210401182653
+157.32.119.72 1 1 411 20210401154403
+106.208.220.22 1 1 456 20210401183756
+103.242.23.179 2 2 822 20210402001324
+45.81.146.32 2 2 822 20210401182710
+34.83.128.121 1 1 0 20210413170325
+223.238.228.219 1 1 411 20210402014838
+34.241.207.179 1 1 456 20210402015257
+37.111.217.203 2 2 822 20210401155513
+117.221.223.10 1 1 411 20210401174649
+223.255.230.46 1 1 411 20210401182217
+223.189.250.93 2 2 822 20210401180530
+110.54.135.81 2 2 822 20210401190431
+103.162.185.5 1 1 411 20210401171820
+152.57.125.89 1 1 411 20210401184745
+49.33.230.244 1 1 411 20210401192539
+157.32.84.16 1 1 411 20210401144745
+47.15.182.45 1 1 411 20210401140840
+49.15.185.234 1 1 411 20210402005943
+157.47.72.249 1 1 411 20210401185150
+49.15.217.235 1 1 456 20210401181212
+119.160.69.207 1 1 411 20210401181847
+44.234.42.14 1 1 4235 20210415071809
+42.201.202.44 1 1 411 20210402000416
+106.223.179.217 1 1 411 20210401183645
+52.41.170.14 2 2 8470 20210414075948
+34.83.93.181 1 1 0 20210413170326
+103.26.80.78 2 2 822 20210401234713
+137.196.0.12 1 1 456 20210401164922
+103.52.250.168 1 1 411 20210401170819
+49.34.136.146 1 1 411 20210401171606
+116.73.221.242 1 1 456 20210401183235
+162.243.123.209 2 2 7818 20210401032018
+54.190.124.228 1 1 4235 20210415072351
+196.71.201.203 2 2 822 20210402000546
+139.167.218.34 2 2 822 20210401230049
+103.139.196.45 2 2 822 20210402000622
+119.160.117.107 1 1 411 20210401194545
+27.34.18.126 1 1 411 20210401135105
+176.236.126.76 1 1 411 20210402000847
+192.35.168.32 2 2 4691 20210413174142
+223.227.94.3 1 1 456 20210402001437
+103.115.24.192 1 1 411 20210401183908
+132.154.16.254 1 1 411 20210401171209
+88.244.184.119 1 1 411 20210401204054
+118.179.205.98 1 1 411 20210401155038
+157.41.141.18 2 2 822 20210401175914
+58.145.184.226 1 1 411 20210401183423
+34.123.219.236 1 1 793 20210401150351
+34.217.93.193 1 1 4235 20210414072434
+217.114.236.117 1 1 411 20210402000012
+52.24.99.75 2 2 8470 20210414075656
+188.253.234.122 1 1 411 20210401190214
+112.79.58.6 2 2 822 20210401134201
+196.70.79.66 1 1 411 20210402020940
+54.189.93.79 1 1 4235 20210414075739
+59.88.203.235 1 1 411 20210401133959
+45.55.66.82 2 2 7818 20210401092326
+27.34.68.250 1 1 411 20210401142506
+136.158.29.218 1 1 411 20210402011457
+106.206.199.87 1 1 411 20210401182817
+209.190.95.226 1 1 456 20210401184906
+157.47.114.62 1 27 935421 20210402015158
+103.122.90.181 1 1 411 20210401113538
+43.245.123.48 2 2 822 20210401183116
+157.51.150.33 1 1 411 20210401191409
+104.236.228.164 2 2 7806 20210401090109
+54.246.223.16 1 1 456 20210401040024
+106.195.69.73 1 1 411 20210401182338
+3.139.88.44 2 2 8470 20210412124650
+138.117.37.245 1 1 411 20210401051851
+45.55.58.97 1 1 41159 20210406161244
+125.167.115.192 2 2 822 20210401181103
+103.214.79.34 1 1 411 20210401184133
+103.242.20.224 1 1 456 20210401141952
+49.37.6.82 1 1 411 20210401163427
+42.0.7.226 1 1 411 20210401184649
+111.119.177.12 1 1 456 20210402000712
+27.60.216.237 1 1 411 20210401175313
+27.147.191.56 1 1 411 20210401170922
+183.83.214.209 1 1 411 20210401175639
+34.214.166.186 1 1 4235 20210414072415
+116.58.203.17 1 1 411 20210402010717
+119.160.99.45 1 1 411 20210402005924
+27.61.154.17 1 1 456 20210401180110
+59.103.112.90 1 1 411 20210401141759
+27.34.108.126 1 1 411 20210401191802
+123.201.73.99 1 1 411 20210402010010
+103.152.100.66 1 1 411 20210401175010
+47.9.111.100 1 1 411 20210401165757
+203.175.72.127 2 2 822 20210401044241
+27.63.42.47 1 1 411 20210401145826
+180.94.32.151 1 1 411 20210401190354
+150.249.214.252 2 2 8470 20210412171141
+47.15.124.107 1 1 456 20210401100927
+62.201.243.248 1 1 411 20210401191718
+74.125.212.230 1 1 3903 20210412053400
+49.204.228.160 1 1 411 20210401174707
+103.67.157.58 1 1 411 20210401145019
+103.136.98.211 2 2 912 20210401171851
+181.31.66.141 1 1 411 20210401062927
+63.33.66.45 1 1 793 20210401172339
+27.34.68.15 1 1 411 20210401163528
+45.127.245.154 1 1 456 20210402000916
+119.160.64.249 1 1 411 20210401174218
+157.40.163.85 1 1 456 20210401181302
+112.79.157.126 1 1 411 20210401174436
+8.210.96.181 1 1 4235 20210411233738
+123.201.12.84 1 1 411 20210401171123
+142.252.76.237 2 2 912 20210401093218
+157.32.107.87 1 1 411 20210401174522
+45.33.15.94 1 1 411 20210401062641
+35.80.18.81 1 1 4235 20210414071301
+202.86.222.235 1 1 411 20210401190258
+49.149.152.239 1 1 411 20210401162647
+182.66.11.70 1 1 411 20210402001215
+47.8.239.25 1 1 411 20210401173427
+38.122.112.147 2 2 8470 20210412134830
+103.82.11.194 1 1 411 20210401170942
+182.48.86.38 2 2 822 20210401190621
+103.114.21.198 2 2 867 20210401182326
+124.16.29.34 1 1 456 20210401150837
+34.95.185.149 1 1 793 20210401212258
+157.34.36.129 1 1 411 20210401184431
+103.146.17.178 1 1 456 20210401180840
+120.89.103.53 1 1 456 20210401180117
+103.67.157.30 1 1 411 20210401172523
+103.35.168.142 1 1 411 20210401172626
+103.57.95.232 1 1 411 20210401171240
+103.123.170.93 1 1 411 20210402015121
+117.20.113.122 1 1 411 20210401171031
+37.111.202.33 1 1 411 20210401091657
+152.57.118.203 1 1 456 20210401181956
+42.108.254.240 1 1 411 20210402001013
+52.36.40.160 1 1 456 20210401080147
+150.249.214.254 1 1 4235 20210412171144
+106.192.107.191 2 2 822 20210401173455
+39.45.155.121 2 2 822 20210401184354
+122.177.232.60 1 1 411 20210401180344
+223.185.45.178 1 1 456 20210401172949
+103.149.143.98 2 2 822 20210402001118
+119.160.65.56 1 1 411 20210401170223
+54.212.41.243 1 1 4235 20210415071844
+45.127.247.34 1 1 411 20210401181533
+52.24.185.187 1 1 4235 20210415072415
+54.185.116.195 1 1 4235 20210414073420
+52.11.123.9 1 1 4235 20210414071356
+107.178.238.39 1 1 4235 20210414024312
+105.213.9.119 1 1 411 20210402000942
+49.146.1.185 2 2 822 20210401171117
+152.57.82.21 1 1 456 20210401014813
+149.28.220.143 1 1 411 20210401130643
+117.96.186.221 3 3 1233 20210401101512
+103.199.85.82 1 1 456 20210401182210
+1.38.232.58 1 1 411 20210402001209
+157.47.126.51 1 1 411 20210402000608
+61.3.216.80 1 1 411 20210401191357
+45.55.65.111 2 2 7812 20210401091544
+54.200.104.123 1 1 456 20210401070324
+114.31.148.47 1 1 411 20210401191141
+52.33.59.78 1 1 456 20210401070323
+150.249.214.251 1 1 4235 20210411170826
+74.125.216.241 1 1 3903 20210412172732
+103.81.92.190 1 1 411 20210402000431
+52.39.219.211 1 1 4235 20210414073355
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 8
+20210401 361 388 892718 222
+20210402 64 152 3890690 46
+20210406 1 1 41159 1
+20210411 42 42 164922 7
+20210412 20 20 84765 13
+20210413 18 18 63112 7
+20210414 32 32 129876 18
+20210415 10 10 37783 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 6
+2mn-5mn 11
+0s-30s 288
+30s-2mn 6
+1h+ 1
+5mn-15mn 6
+30mn-1h 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 9
+/ 393 206683 255 255
+/cgi-sys/suspendedpage.cgi 122 480458 54 54
+/blog/detail/How-to-build-a-great-brand-identity 18 70344 9 9
+/blog 4 20704 2 1
+//assets/dark-mode/fonts/fa-brands-400.woff2 3 163260 0 1
+//assets/dark-mode/fonts/fa-solid-900.woff2 3 116352 0 0
+/about 3 16506 2 2
+/thanks 1 696 0 1
+/contact 1 4796 1 0
+END_SIDER

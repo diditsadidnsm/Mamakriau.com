@@ -1,0 +1,106 @@
+
+/* ====================== [ Start progress bar ] ====================== */
+
+.skills-circle {
+
+	.item{
+		display: flex;
+	}
+
+	.skill {
+		position: relative;
+
+		span {
+			width: 100px;
+			height: 100px;
+			line-height: 100px;
+			text-align: center;
+			border-radius: 50%;
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translateX(-50px) translateY(-50px);
+			font-size: 20px;
+			font-weight: 300;
+		}
+	}
+
+	.cont{
+		padding-top: 25px;
+		padding-left: 25px;
+
+		span{
+			font-size: 12px;
+			font-weight: 300;
+			opacity: .9;
+			margin-bottom: 10px;
+		}
+
+		h6 {
+			font-size: 15px;
+			font-weight: 500;
+		}
+	}
+}
+
+.skills-box {
+
+	.skill-item {
+		margin-bottom: 50px;
+
+		&:last-of-type {
+			margin-bottom: 0;
+		}
+	}
+
+	h6 {
+		font-size: 13px;
+		font-weight: 300;
+		text-transform: uppercase;
+		letter-spacing: 2px;
+		margin-bottom: 10px;
+	}
+
+	.skill-progress {
+		height: 7px;
+		background-color: rgba(0,0,0,.05);
+		position: relative;
+
+		.progres {
+			position: absolute;
+			height: 100%;
+			width: 0;
+			top: 0;
+			left: 0;
+			background-color: $main-color;
+			transition: all 1.5s;
+
+			&:after {
+				content: attr(data-value);
+				position: absolute;
+				right: 10px;
+				top: -45px;
+				padding: 7px 15px;
+				border-radius: 5px;
+				background: $main-color;
+				color: #111;
+				font-size: 12px;
+				font-weight: 600;
+			}
+
+			&:before {
+				content: '';
+				width: 0;
+				height: 0;
+				border-left: 5px solid transparent;
+				border-right: 5px solid transparent;
+				border-top: 8px solid $main-color;
+				position: absolute;
+				right: 15px;
+				bottom: 14px;
+			}
+		}
+	}
+}
+
+/* ====================== [ End progress bar ] ====================== */

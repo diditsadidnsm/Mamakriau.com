@@ -1,0 +1,135 @@
+
+
+/* ====================== [ Start Call To Action  ] ====================== */
+
+.call-action{
+
+	.content{
+
+		h6{
+			color: $main-color;
+			font-size: 13px;
+			font-weight: 400;
+			text-transform: uppercase;
+			letter-spacing: 4px;
+			margin-bottom: 10px;
+
+			span{
+				color: $main-color;
+			}
+		}
+
+		h2{
+			font-weight: 700;
+			font-size: 4vw;
+			line-height: 1.2;
+			text-transform: uppercase;
+			margin-bottom: 20px;
+			-webkit-text-stroke-width: 1px;
+			-webkit-text-stroke-color: #0c0f16;
+			color: transparent;
+			
+			span{
+				color: transparent;
+			}
+
+			b{
+				
+				span{
+					color: #0c0f16;
+					-webkit-text-stroke-width: 0;
+				}
+			}
+		}
+
+		p{
+			font-size: 17px;
+			font-weight: 300;
+		}
+	}
+
+	.btn-curve{
+		border: 2px solid;
+		line-height: 2;
+		
+		span{
+			font-size: 15px;
+			font-weight: 700;
+			text-transform: capitalize;
+		}
+
+		&:hover{
+
+			span{
+				color: #0c0f16;
+			}
+		}
+	}
+
+	.tlink{
+		margin-left: auto;
+		border-bottom: 1px solid #0c0f16;
+	}
+
+	&.next{
+		position: relative;
+		z-index: 2;
+		overflow: hidden;
+
+		&:after{
+			display: none;
+		}
+
+		&:before{
+			content: '';
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			display: block;
+			background: #0a0a0a;
+			opacity: 1;
+			transition: all .5s;
+		}
+
+		.content{
+
+			h2{
+				font-size: 5vw;
+				font-weight: 700;
+
+				b{
+					font-weight: 700;
+				}
+			}
+		}
+
+		.nxt-img{
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			transform: scale(1.4);
+			background-size: cover;
+			background-position: center;
+			z-index: -1;
+			transition: all 1s linear;
+		}
+
+		&:hover{
+
+			&:before{
+				opacity: .9;
+			}
+
+			.nxt-img{
+				transform: scale(1);
+				transition: all 10s linear;
+			}
+		}
+	}
+}
+
+/* ====================== [ End Call To Action  ] ====================== */

@@ -1,0 +1,231 @@
+# Webalizer V2.23-08 Incremental Data - 04/15/2021 15:45:12
+2021 4 15 15 45 12
+866 811 8 30 7 8 955985 833 17 0
+1 1 78 1 15
+769 768 753499 2 741 2
+83 43 190153 2 79 5
+3 0 3708 1 2 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 0 2472 2 2 2
+0 0 0 0 0 0
+1 0 0 1 1 1
+5 0 4917 3 5 3
+0 0 0 0 0 0
+1 0 1236 1 1 1
+0 0 0 0 0 0
+1 0 0 1 1 1
+0 0 0 0 0 0
+1 0 0 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+77 43 183973 74
+3 0 3708 3
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+51 49 472749 23
+61 60 8316 61
+60 60 27267 60
+65 65 18246 65
+62 62 20731 62
+60 60 22137 60
+69 68 33340 69
+79 78 85751 79
+63 60 15868 62
+61 60 8319 61
+69 66 36295 68
+61 60 12126 61
+19 19 2242 19
+0 0 0 0
+5 0 4917 5
+1 1 0 1
+0
+0
+0
+811
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3
+48
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/skins/elastic/ui.min.js
+0 1 0 18557 0 0
+/skins/larry/images/messages_dark.png
+0 1 0 601 0 0
+/program/js/jquery.min.js
+0 1 0 30744 0 0
+/program/js/list.min.js
+0 1 0 7692 0 0
+/plugins/jqueryui/js/jquery-ui.min.js
+0 1 0 67460 0 0
+/skins/larry/images/listicons.png
+0 1 0 10460 0 0
+/program/js/jstz.min.js
+0 1 0 4648 0 0
+/skins/larry/images/addcontact.png
+0 1 0 265 0 0
+/skins/elastic/deps/bootstrap.bundle.min.js
+0 1 0 21346 0 0
+/skins/elastic/fonts/roboto-v19-regular.woff2
+0 1 0 51116 0 0
+/program/resources/blank.webp
+0 1 0 86 0 0
+/skins/larry/images/ajaxloader_dark.gif
+0 1 0 1849 0 0
+/skins/larry/images/selector.png
+0 1 0 118 0 0
+/program/js/treelist.min.js
+0 1 0 5106 0 0
+/skins/larry/images/quota.png
+0 1 0 1389 0 0
+/skins/larry/styles.min.css
+0 1 0 9091 0 0
+/skins/elastic/fonts/fa-solid-900.woff2
+0 1 0 75440 0 0
+/skins/larry/watermark.html
+0 1 0 249 0 0
+/skins/larry/ui.min.js
+0 1 0 8294 0 0
+/skins/larry/images/buttons.png
+0 1 0 13608 0 0
+/skins/elastic/styles/styles.css
+0 1 0 18706 0 0
+/skins/larry/images/splitter.png
+0 1 0 134 0 0
+/skins/elastic/deps/bootstrap.min.css
+0 1 7212515902745477120 20900 0 0
+/skins/elastic/images/fix.png
+0 2 7308330023623536177 12150 0 0
+/program/resources/blank.tiff
+0 1 8097804402459227181 270 0 0
+/
+0 781 72057594037927936 459714 17 9
+/skins/larry/mail.min.css
+0 1 8462384025001931053 4587 0 0
+/skins/larry/images/contactpic_48px.png
+0 1 8070450532247928832 353 0 0
+/program/js/app.min.js
+0 1 7579123201900178799 47098 0 0
+/program/js/common.min.js
+0 1 8315177826478090599 4653 0 0
+# End Of Table - urls
+# -sites- (monthly)
+104.131.97.154
+0 1 0 1236 1 1617728539
+/
+ec2-35-182-73-101.ca-central-1.compute.amazonaws.com
+0 1 0 0 1 1618325365
+/
+186.92.76.34.bc.googleusercontent.com
+0 1 0 1236 1 1617960135
+/
+fireblade.vivawebhost.com
+0 1 0 1236 1 1618108848
+/
+36.72.214.149
+0 853 810 947360 6 1617474420
+/
+179.43.169.181
+0 3 0 3681 1 1618008895
+/
+planetlab24.gino-research.net.in.tum.de
+0 5 1 0 5 1618501512
+/
+138.197.108.59
+0 1 0 1236 1 1617726838
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+planetlab24.gino-research.net.in.tum.de
+0 1 0 0 1 1618501512
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://mail.mamakriau.com/skins/elastic/styles/styles.css
+0 2
+https://mail.mamakriau.com/skins/larry/styles.min.css
+0 8
+- (Direct Request)
+0 18
+https://mail.mamakriau.com/
+0 835
+https://mail.mamakriau.com/skins/larry/mail.min.css
+0 1
+http://www.mail.mamakriau.com/wp-login.php
+0 1
+http://mail.mamakriau.com/wp-login.php
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+0 83
+Mozilla/5.0 (Linux; Android 10; CPH1931) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux i686; rv:10.0) Gecko/20100101 Firefox/10.0
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+0 768
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36
+0 5
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

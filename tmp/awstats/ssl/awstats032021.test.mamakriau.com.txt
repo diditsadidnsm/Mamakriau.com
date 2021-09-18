@@ -1,0 +1,370 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202103 will be lost/reset.
+# Last config file used to build this data file was /home/mamakriau/tmp/awstats/ssl/awstats.test.mamakriau.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2692                
+POS_VISITOR 8248                
+POS_DAY 9379                
+POS_DOMAIN 3240                
+POS_LOGIN 3506                
+POS_ROBOT 3661                
+POS_WORMS 3824                
+POS_EMAILSENDER 3955                
+POS_EMAILRECEIVER 4098                
+POS_SESSION 9779                
+POS_SIDER 9943                
+POS_FILETYPES 4233                
+POS_DOWNLOADS 4472                
+POS_OS 4520                
+POS_BROWSER 4631                
+POS_SCREENSIZE 4831                
+POS_UNKNOWNREFERER 4905                
+POS_UNKNOWNREFERERBROWSER 5286                
+POS_ORIGIN 5662                
+POS_SEREFERRALS 5797                
+POS_PAGEREFS 5941                
+POS_SEARCHWORDS 6089                
+POS_KEYWORDS 6241                
+POS_MISC 2356                
+POS_ERRORS 6300                
+POS_CLUSTER 3362                
+POS_SIDER_404 6408                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210401213107 1 0 11413865348178
+FirstTime 20210301074211
+LastTime 20210327021818
+LastUpdate 20210402195210 1 0 0 0 0
+TotalVisits 43                  
+TotalUnique 29                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 29                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 1 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 3714 0 0 0
+1 0 0 0 54 54 61020
+2 2 2 1857 0 0 0
+3 0 0 0 0 0 0
+4 7 7 58536 0 0 0
+5 3 3 1214 0 0 0
+6 5 5 1214 0 0 0
+7 3 3 1324 0 0 0
+8 2 2 59179 1 1 717
+9 1 1 0 0 0 0
+10 1 1 607 1 1 717
+11 4 4 2464 3 3 1227
+12 0 0 0 0 0 0
+13 1 1 607 0 0 0
+14 8 8 784 0 1 0
+15 14 14 1814 0 0 0
+16 6 7 1317 0 0 0
+17 1 1 0 0 0 0
+18 2 2 607 0 0 0
+19 0 0 0 0 0 0
+20 1 1 57322 0 0 0
+21 1 1 0 0 0 0
+22 18 186 5126981 0 1 3722
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+id 42 211 5128432
+us 31 31 189252
+de 8 8 0
+gr 1 1 1857
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+spider 2 1434 20210309100716 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+woff 3 119752 0 0
+jpg 45 3860082 0 0
+woff2 2 154320 0 0
+gif 1 68002 0 0
+png 14 104623 0 0
+css 61 171390 0 0
+svg 1 612 0 0
+php 15 2038 0 0
+js 47 586863 0 0
+html 62 251859 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+linux 223 54
+win7 9 9
+Unknown 9 9
+win10 10 10
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 7
+chrome74.0.3729.131 1 1
+firefox67.0 1 1
+chrome56.0.2924.76 9 9
+chrome89.0.4389.82 211 42
+chrome88.0.4324.146 8 8
+Unknown 9 9
+chrome83.0.4103.97 12 12
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210307003717
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20210325084149
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20210325084149
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210307003717
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 59 60
+From1 0 0
+From2 0 0
+From3 0 0
+From4 23 191
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 54 61020
+403 2 1227
+301 1 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 54
+/magento/rss/catalog/review 1 -
+/dev/downloader/index.php 1 -
+/dev/rss/order/new 1 -
+/demo/index.php/admin/ 1 -
+/old/rss/catalog/notifystock 1 -
+/store/rss/catalog/notifystock 1 -
+/rss/catalog/notifystock 1 -
+/test/downloader/index.php 1 -
+/rss/order/new 1 -
+/old/rss/order/new 1 -
+/store/index.php/admin/ 1 -
+/staging/rss/catalog/notifystock 1 -
+/old/downloader/index.php 1 -
+/shop/rss/order/new 1 -
+/magento/rss/catalog/notifystock 1 -
+/test/index.php/admin/ 1 -
+/shop/errors/503.php 1 -
+/staging/downloader/index.php 1 -
+/index.php/admin/ 1 -
+/demo/rss/catalog/review 1 -
+/downloader/index.php 1 -
+/store/downloader/index.php 1 -
+/shop/rss/catalog/notifystock 1 -
+/store/rss/order/new 1 -
+/test/rss/catalog/review 1 -
+/rss/catalog/review 1 -
+/magento/rss/order/new 1 -
+/test/rss/catalog/notifystock 1 -
+/shop/index.php/admin/ 1 -
+/dev/index.php/admin/ 1 -
+/test/rss/order/new 1 -
+/test/errors/503.php 1 -
+/store/errors/503.php 1 -
+/errors/503.php 1 -
+/demo/rss/catalog/notifystock 1 -
+/staging/index.php/admin/ 1 -
+/dev/rss/catalog/notifystock 1 -
+/old/index.php/admin/ 1 -
+/demo/rss/order/new 1 -
+/staging/rss/order/new 1 -
+/demo/errors/503.php 1 -
+/magento/index.php/admin/ 1 -
+/dev/rss/catalog/review 1 -
+/staging/errors/503.php 1 -
+/store/rss/catalog/review 1 -
+/shop/rss/catalog/review 1 -
+/old/errors/503.php 1 -
+/demo/downloader/index.php 1 -
+/shop/downloader/index.php 1 -
+/old/rss/catalog/review 1 -
+/staging/rss/catalog/review 1 -
+/magento/downloader/index.php 1 -
+/dev/errors/503.php 1 -
+/magento/errors/503.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 29
+36.81.25.23 42 211 5128432 20210314225430
+138.246.253.24 8 8 0 20210327021818
+54.187.194.70 3 3 1214 20210313042833
+34.77.162.15 2 2 3714 20210308082854
+34.220.99.235 2 2 1214 20210313042836
+54.149.78.88 2 2 0 20210309183941
+34.77.162.16 1 1 57322 20210316204035
+54.187.50.106 1 1 607 20210312052954
+52.89.238.47 1 1 0 20210303150455
+54.201.191.3 1 1 0 20210306050541
+34.214.185.68 1 1 0 20210301074211
+34.216.13.40 1 1 607 20210308133352
+34.221.82.69 1 1 607 20210301074212
+54.245.188.53 1 1 607 20210304103304
+54.202.45.10 1 1 607 20210307060852
+34.77.162.4 1 1 1857 20210306000526
+34.216.50.39 1 1 607 20210305045933
+52.41.89.181 1 1 0 20210311064943
+34.77.162.23 1 1 57322 20210319041533
+54.184.210.242 1 1 0 20210305045931
+34.240.166.111 1 1 717 20210312070818
+34.211.147.175 1 1 607 20210308110407
+92.118.160.13 1 1 1857 20210307003717
+18.237.36.11 1 1 607 20210303150456
+13.58.170.81 1 1 0 20210307042538
+34.77.162.22 1 1 57322 20210325084149
+34.212.35.128 1 1 0 20210308110356
+34.77.162.9 1 1 1857 20210302221746
+34.77.162.10 1 1 1857 20210313022722
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 17
+20210301 2 2 607 2
+20210302 1 1 1857 1
+20210303 2 2 607 2
+20210304 2 2 2464 2
+20210305 4 4 607 4
+20210306 3 3 2464 3
+20210307 4 4 2464 4
+20210308 4 4 3071 4
+20210309 2 2 607 2
+20210311 2 2 607 2
+20210312 3 3 1324 3
+20210313 29 30 5772 6
+20210314 17 185 5125124 1
+20210316 1 1 57322 1
+20210319 3 3 57322 3
+20210325 2 2 57322 2
+20210327 1 1 0 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+5mn-15mn 2
+1h+ 1
+0s-30s 40
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 17
+/ 53 216186 43 41
+/2.php 11 1223 0 0
+/3.php 3 797 0 0
+/about-2.html 2 9043 0 0
+/1.php 1 18 0 1
+/event.html 1 3652 0 0
+/assets/vendors/fontawesome/fonts/fontawesome-webfont3e6e.woff2 1 77160 0 0
+/assets/vendors/themify/fonts/themify9f24.woff 1 56108 0 0
+/membership.html 1 4423 0 0
+/courses-details.html 1 5013 0 0
+/admin/assets/vendors/fontawesome/fonts/fontawesome-webfont3e6e.woff2 1 77160 0 0
+/courses.html 1 3971 0 0
+/profile.html 1 4768 0 0
+/admin/ 1 3829 0 0
+/assets/vendors/revolution/fonts/revicons/revicons90c6.woff 1 7536 0 0
+/error-404.html 1 974 0 1
+/admin/assets/vendors/themify/fonts/themify9f24.woff 1 56108 0 0
+END_SIDER

@@ -1,0 +1,365 @@
+
+
+/* ====================== [ Start showcase ] ====================== */
+
+.showcase-full{
+
+    .parallax-slider{
+
+        .swiper-slide .bg-img{
+            background-position: center center;
+        }
+
+        .caption{
+
+            h1{
+                font-size: 9vw;
+                font-weight: 800;
+                line-height: 1.2;
+                transition: all .5s;
+
+                .stroke{
+                    color: transparent;
+                    -webkit-text-stroke: 1px #fff;
+                   
+                }
+    
+                span{
+                    margin-left: 200px;
+                }
+            }
+
+            .discover{
+                margin-top: 50px;
+                opacity: 0;
+                transition: all .7s;
+
+                i{
+                    display: inline-block;
+                    width: 70px;
+                    height: 70px;
+                    line-height: 70px;
+                    text-align: center;
+                    border: 1px solid #fff;
+                    border-radius: 50%;
+                    margin-right: 10px;
+                }
+
+                span{
+                    font-size: 13px;
+                    font-weight: 600;
+                }
+            }
+        }
+    }
+}
+
+.showcase-carus{
+    height: 100vh;
+
+    .swiper-container{
+        height: 100%;
+    }
+
+    .swiper-slide{
+
+        .bg-img{
+            height: 60vh;
+            margin: 20vh 0 0;
+        }
+    }
+
+    .caption, .copy-cap{
+
+        h1{
+            font-size: 90px;
+            font-weight: 800;
+            line-height: 1.2;
+            position: relative;
+            left: -120px;
+
+            .stroke{
+                color: transparent;
+                -webkit-text-stroke: 1px #fff;
+                transform: skewX(25deg) translateX(-100px);
+                opacity: 0;
+                transition: transform 1.2s, opacity .3s;
+                transition-delay: .2s;
+            }
+
+            span{
+                margin-left: 40px;
+                transform: skewX(-25deg) translateX(100px);
+                opacity: 0;
+                transition: transform 1.2s, opacity .3s;
+                transition-delay: .2s;
+            }
+        }
+
+        .discover{
+            margin-top: 50px;
+            opacity: 0;
+            transition: all .7s;
+
+            i{
+                display: inline-block;
+                width: 70px;
+                height: 70px;
+                line-height: 70px;
+                text-align: center;
+                border: 1px solid #fff;
+                border-radius: 50%;
+                margin-right: 10px;
+            }
+
+            span{
+                font-size: 13px;
+                font-weight: 600;
+            }
+        }
+    }
+
+    .swiper-slide-active {
+        
+        .caption, .copy-cap{
+
+            h1{
+
+                .stroke{
+                    transform: skewX(0) translateX(0);
+                    opacity: 1;
+                }
+    
+                span{
+                    transform: skewX(0) translateX(0);
+                    opacity: 1;
+                }
+            }
+
+            .discover{
+               opacity: 1;
+            }
+        }
+    }
+
+    .copy-cap{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+
+        .cap{
+
+            h1{
+
+                span{
+                    color: transparent;
+                    -webkit-text-stroke: 1px #fff;
+                }
+        
+                .stroke{
+                    color: #fff;
+                    -webkit-text-stroke: 0;
+                }
+            }
+        }
+    }
+
+    &.circle-slide{
+
+        .swiper-slide{
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+
+            .bg-img{
+                height: 420px;
+                width: 420px;
+                border-radius: 50%;
+                margin: auto;
+                background-position: center center;
+
+                &:before{
+                    border-radius: 50%;
+                }
+            }
+        }
+
+        .caption, .copy-cap{
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+
+            h1{
+                font-size: 90px;
+                display: block;
+                min-width: 700px;
+                text-align: center;
+                left: -140px;
+                margin: auto;
+    
+                .stroke{
+                    display: inline-block;
+                    color: transparent;
+                    -webkit-text-stroke: 1px #fff;
+                }
+    
+                span{
+                    margin-left: auto;
+                    color: transparent;
+                    -webkit-text-stroke: 1px #fff;
+                }
+            }
+        }
+
+        .copy-cap{
+    
+            .cap{
+    
+                h1{
+    
+                    span{
+                        color: #fff;
+                        -webkit-text-stroke: 0;
+                    }
+            
+                    .stroke{
+                        color: #fff;
+                        -webkit-text-stroke: 0;
+                    }
+                }
+            }
+        }
+
+        .caption, .copy-cap{
+
+            h1{
+
+                .stroke{
+                    transform: skewX(0) translateX(0);
+                    opacity: 1;
+                }
+    
+                span{
+                    transform: skewX(0) translateX(0);
+                    opacity: 1;
+                }
+            }
+        }
+    }
+}
+
+.showstyle{
+    height: 100vh;
+
+    .swiper-container{
+        height: 100%;
+    }
+
+    .swiper-slide{
+
+        .bg-img{
+            height: 70vh;
+            margin: 15vh 0 0;
+        }
+    }
+
+    .caption{
+
+        h1{
+            font-size: 90px;
+            font-weight: 800;
+            line-height: 1.2;
+            transition: all .5s;
+
+            .stroke{
+                color: transparent;
+                -webkit-text-stroke: 1px #fff;
+               
+            }
+
+            span{
+                margin-left: 200px;
+            }
+        }
+
+        .discover{
+            margin-top: 50px;
+            opacity: 0;
+            transition: all .7s;
+
+            i{
+                display: inline-block;
+                width: 70px;
+                height: 70px;
+                line-height: 70px;
+                text-align: center;
+                border: 1px solid #fff;
+                border-radius: 50%;
+                margin-right: 10px;
+            }
+
+            span{
+                font-size: 13px;
+                font-weight: 600;
+            }
+        }
+    }
+}
+
+.showcase-grid{
+    height: 100vh;
+
+    .swiper-container{
+        height: 100%;
+    }
+
+    .swiper-slide{
+
+        .bg-img{
+            height: 76vh;
+            margin: 12vh 0 0;
+            position: relative;
+            background-position: center center;
+        }
+    }
+}
+
+
+.div-tooltip-tit {
+    display: none;
+    position: absolute;
+    color: #fff;
+    background-color: #000;
+    padding: 0 10px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    z-index: 99999;
+}
+
+.div-tooltip-sub {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    padding: 10px;
+    color: #111;
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    z-index: 99999;
+}
+
+/* ====================== [ end showcase ] ====================== */
+

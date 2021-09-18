@@ -1,0 +1,1220 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202102 will be lost/reset.
+# Last config file used to build this data file was /home/mamakriau/tmp/awstats/ssl/awstats.mamakriau.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2697                
+POS_VISITOR 31511               
+POS_DAY 40060               
+POS_DOMAIN 3681                
+POS_LOGIN 4149                
+POS_ROBOT 4304                
+POS_WORMS 5388                
+POS_EMAILSENDER 5519                
+POS_EMAILRECEIVER 5662                
+POS_SESSION 40928               
+POS_SIDER 41141               
+POS_FILETYPES 5797                
+POS_DOWNLOADS 6234                
+POS_OS 6336                
+POS_BROWSER 6640                
+POS_SCREENSIZE 8454                
+POS_UNKNOWNREFERER 8528                
+POS_UNKNOWNREFERERBROWSER 9732                
+POS_ORIGIN 10455               
+POS_SEREFERRALS 10603               
+POS_PAGEREFS 10785               
+POS_SEARCHWORDS 11055               
+POS_KEYWORDS 11207               
+POS_MISC 2358                
+POS_ERRORS 11266               
+POS_CLUSTER 4005                
+POS_SIDER_404 11459               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210301000516 83 22990 24130357393627
+FirstTime 20210201000243
+LastTime 20210228222517
+LastUpdate 20210301195343 83 0 82 0 0
+TotalVisits 326                 
+TotalUnique 165                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 237                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 3506 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 618 2034 172955743 114 701 414733
+1 652 2212 159909857 278 993 1226792
+2 375 1308 112066032 49 374 1867695
+3 558 4560 309891950 413 4048 289785781
+4 255 708 38314901 50 248 2935542
+5 649 3054 238051773 55 303 216097
+6 408 1445 116540448 50 281 157217
+7 219 678 59588521 62 255 3551336
+8 377 1310 103704863 64 473 27710414
+9 318 743 58723936 67 284 1752413
+10 842 1767 93272056 158 536 7264392
+11 1654 3583 133860679 375 849 790873
+12 610 1517 69522002 73 412 6860364
+13 195 576 42140927 49 147 215766
+14 80 232 13340979 26 143 790891
+15 253 707 32903256 16 1358 4767833
+16 307 491 19758561 48 533 7082363
+17 394 1350 89066056 69 386 241481
+18 246 1167 79278117 134 266 235634
+19 297 871 51951639 50 251 409395
+20 398 1182 47617989 105 359 366357
+21 865 1545 52718479 154 429 5231328
+22 469 1531 96035578 148 445 8851108
+23 265 729 78787589 94 384 1426957
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 16
+id 10875 32423 2121554900
+us 334 2351 105608227
+ua 29 40 1152632
+au 13 103 12990490
+de 12 107 2901777
+gb 11 105 8377347
+ie 9 84 9769698
+ru 7 54 7181231
+zz 3 3 50669
+nl 3 3 11302
+ca 2 21 314804
+eu 2 2 20062
+hu 1 1 5758
+se 1 1 5753
+in 1 1 34463
+gr 1 1 22497
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 23
+(firefox/)([0-9]\.|[0-1][0]\.) 3610 283159717 20210225013426 0
+Googlebot/ 249 8095183 20210228103744 24
+bot[\s_+:,\.\;\/\\-] 213 10942027 20210225132031 9
+PhantomJS 207 12958061 20210218123728 0
+bingpreview 177 15396442 20210228075658 0
+MJ12bot/ 75 1441842 20210227111252 8
+facebookexternalhit/ 67 547154 20210227211123 0
+bingbot/ 66 1024634 20210228075710 36
+AhrefsBot/ 58 126702 20210228043441 12
+Dalvik/ 58 6539710 20210211031851 0
+crawl 55 1632615 20210226021515 1
+nbot 49 4382880 20210211031818 0
+AdsBot\-Google[\x20]\( 49 921433 20210207232107 0
+Googlebot\-Image/ 29 4751145 20210220120753 0
+baidu 25 345182 20210219141528 0
+unknown 24 3825 20210228120318 24
+Seobility 6 18399 20210206013318 3
+no_user_agent 5 143093 20210228222932 0
+YandexBot/ 4 12025 20210225003029 2
+Apache\-HttpClient/ 3 510 20210225132031 3
+DuckDuckGo\-Favicons\-Bot/ 2 32512 20210222110042 0
+Validator\.nu/ 2 11547 20210218123453 0
+W3C_Validator/ 2 11537 20210218123451 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 19
+js 2973 84988867 0 0
+json 13 7579 0 0
+co 6 17562 0 0
+png 12309 1706773690 0 0
+jpeg 24 1994370 0 0
+woff2 1134 51378952 0 0
+com 1 2807 0 0
+txt 1 986 0 0
+svg 141 275251 0 0
+html 2025 10179932 0 0
+Unknown 7701 36245900 0 0
+eot 4 234720 0 0
+css 5027 33969303 0 0
+jpg 3502 283675767 0 0
+xml 1 665 0 0
+woff 372 21232696 0 0
+gif 19 29425096 0 0
+map 17 9879 0 0
+ttf 30 9587588 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/.well-known/security.txt 1 0 665
+/robots.txt 0 1 321
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+macosx10 2 2
+win10 21495 8591
+Unknown 273 94
+linuxandroid 7107 984
+ios_iphone 48 4
+linuxubuntu 1 1
+win7 3514 1298
+win8.1 95 8
+winxp 298 29
+macosx9 2 0
+macosx 641 75
+win8 49 5
+macosx11 16 16
+winlong 7 7
+unix 1 1
+linux 1749 187
+macosx8 3 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 80
+chrome80.0.3987.122 1 1
+chrome88.0.4324.104 6613 2428
+chrome78.0.3904.108 3 3
+chrome34.0.1847.116 7 7
+chrome70.0.3538.80 113 9
+chrome88.0.4324.175 432 44
+chrome74.0.3694.0 102 8
+safari7.0.3 2 0
+chrome47.0.2526.83 7 7
+chrome88.0.4324.182 2572 1071
+firefox29.0 119 17
+opera12.16.2 1 1
+chrome80.0.3987.149 2 2
+chrome88.0.4324.152 4492 551
+msie6.0 2 2
+chrome61.0.3163.100 1 1
+firefox61.0 1 1
+msie10.0 3 0
+safari11.0 48 4
+chrome63.0.3239.132 3 3
+mozilla 117 59
+chrome67.0.3396.99 102 8
+chrome49.0.2623.75 7 7
+opera74.0.3911.107 2621 1658
+chrome66.0.3359.66 2 2
+wget 51 4
+firefox84.0 1 1
+chrome80.0.3963.0 51 4
+chrome88.0.4324.141 183 62
+chrome88.0.4324.150 4985 1977
+chrome88.0.4324.93 808 170
+chrome57.0.2987.132 55 4
+firefox70.0 1 1
+msie9.0 4 0
+chrome23.0.1271.64 115 10
+chrome84.0.4147.135 708 71
+chrome87.0.4280.141 50 5
+chrome51.0.2704.64 1 1
+chrome78.0.3882.0 51 4
+chrome88.0.4324.143 103 11
+chrome39.0.2171.95 1 1
+chrome88.0.4324.146 3024 1210
+chrome26.0.1410.65 3 2
+chrome88.0.4324.190 576 313
+chrome84.0.4147.89 1 1
+chrome81.0.4044.129 1 1
+chrome83.0.4103.97 9 9
+chrome63.0.3239.84 1 1
+chrome83.0.4103.61 51 4
+firefox46.0 1 1
+chrome40.0.2214.93 1 1
+chrome84.0.4147.125 79 8
+opera12.16 1 0
+chrome88.0.4324.181 373 67
+chrome48.0.2564.116 10 8
+firefox33.0 1 1
+chrome 2 2
+chrome41.0.2228.0 1 1
+chrome83.0.4103.106 175 16
+chrome77.0.3835.0 20 4
+chrome74.0.3729.131 48 4
+firefox26.0 2 2
+chrome79.0 2 2
+chrome85.0.4183.83 470 44
+chrome83.0.4103.116 113 10
+chrome84.0.4143.7 799 101
+chrome80.0.3987.87 53 5
+safari 60 7
+firefox85.0 3184 1058
+opera8.0 51 5
+Unknown 92 28
+chrome50.0.2661.102 16 16
+chrome85.0.4183.121 48 4
+msie7.0 93 8
+opera6.04 97 8
+chrome88.0.4240.193 4 4
+chrome86.0.4240.111 109 16
+opera7.02 53 4
+chrome29.0.1547.66 23 3
+chrome86.0.4240.193 1113 105
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 18
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210222014155
+Mozilla/5.0_(compatible;_RSiteAuditor) 20210226012517
+keycdn-tools/perf 20210223225021
+Go-http-client/1.1 20210228075006
+adreview/1.0 20210205085345
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_Mozilla/5.0,_Google-AdWords-Express)_Chrome/88.0.4324.175_Safari/537.36 20210222143348
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20210227071607
+Array 20210218103904
+Mozilla/5.0_Firefox/33.0 20210208094926
+Softaculous 20210215093119
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_Mozilla/5.0,_Google-AdWords-Express)_Chrome/88.0.4324.143_Safari/537.36 20210211201357
+cortex/1.0 20210205085407
+Go-http-client/2.0 20210223135131
+Ruby 20210216102535
+keycdn-tools/speed 20210223224421
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20210214070300
+Mozilla/5.0_(compatible;_woorankreview/2.0;__https://www.woorank.com/) 20210212130319
+wget 20210206013321
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 12
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20210227071607
+adreview/1.0 20210205085345
+Go-http-client/1.1 20210228075006
+Array 20210218103904
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210222014155
+keycdn-tools/perf 20210223225021
+Softaculous 20210215093119
+Go-http-client/2.0 20210223135131
+cortex/1.0 20210205085407
+Ruby 20210216102535
+keycdn-tools/speed 20210223224421
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20210214070300
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1427 1549
+From1 1 1
+From2 66 166
+From3 13 13
+From4 9797 33572
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google_com 1 100
+www_google_com 65 66
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://www.dareboost.com 10 10
+https://wildeaglestudio.com 1 1
+https://l.instagram.com 1 1
+https://brandnewblogs.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+401 1 35
+206 67 5450443
+400 49 24018
+403 129 158283
+500 735 103838
+301 3 2115
+404 4030 2544758
+303 722 980
+307 127 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 287
+/images/category/strategic-brand-solution-20210131031313.png 1 -
+/theme/assets/css/bootstrap.min.css 11 https://mamakriau.com/administrator/dashboard
+//test/wp-includes/wlwmanifest.xml 5 -
+/theme//theme/css/icons.min.css 7 https://mamakriau.com/administrator/dashboard
+/images/category/ben-maher-20210202020027.png 1 https://mamakriau.com/administrator/product
+//images/category/web-app-development-20210206054912.%E2%80%A6 30 https://mamakriau.com/
+//theme/src/plugins/datatables/js/dataTables.responsive.min.js 2 https://mamakriau.com/administrator/dashboard
+/administrator/assets/images/flags/russia_flag.jpg 41 https://mamakriau.com/administrator/dashboard
+//theme/vendors/scripts/dashboard.js 2 https://mamakriau.com/administrator/dashboard
+/asset-manifest.json 2 https://mamakriau.com/
+/images/book/design-trend-2021-20210201013055.jpg 2 https://mamakriau.com/administrator/book/edit/1
+//images/seo/mamak-riau-20210111222053.png 1 https://www.google.com/blank.html
+/images/word/326780-P9JGF8-718.jpg 10 https://mamakriau.com/administrator/word/edit/1
+/rss/order/new 1 -
+/images/word/software-developer-20210115134928.png 2 https://mamakriau.com/administrator/author
+//images/category/web-app-development-20210228093059.%E2%80%A6 24 https://mamakriau.com/
+//theme/vendors/scripts/script.min.js 2 https://mamakriau.com/administrator/dashboard
+/administrator/assets/images/logo-light.png 41 https://mamakriau.com/administrator/dashboard
+/administrator/email-inbox.html 1 https://mamakriau.com/administrator/dashboard
+/test/index.php/admin/ 1 -
+/images/product/saltnet-20210202020143.png 1 -
+/dev/index.php/admin/ 1 -
+/images/category/graphic-design-project-20210131031631.png 2 -
+//videos/mamakriau.gif%20 1 https://mamakriau.com/about
+/demo/rss/order/new 1 -
+/old/downloader/index.php 1 -
+/images/category/angeles-contables-20210202015810.png 1 https://mamakriau.com/administrator/product
+/magento/rss/catalog/notifystock 1 -
+/images/author/growing-your-brand-through-meaningful-connections-and-engagement-online-20210201003953.jpg 12 https://mamakriau.com/administrator/word
+//shop/wp-includes/wlwmanifest.xml 1 -
+/administrator/assets/images/small/img-1.jpg 44 https://mamakriau.com/administrator/dashboard
+/theme//theme/libs/chartist/chartist.min.css 7 https://mamakriau.com/administrator/dashboard
+//assets/dark-mode/js/swiper.min.js.map 2 https://mamakriau.com/
+/assets/img/portfolio/project1/bg.jpg 25 https://mamakriau.com/project/category/strategic-brand-solution
+/web-app-development 1 -
+//images/support/phoenixsolarpanelsystemscom-20210228%E2%80%A6 12 https://mamakriau.com/
+/administrator/index.html 3 https://mamakriau.com/administrator/dashboard
+/images/book/ 2 https://mamakriau.com/administrator/book/create
+//images/category/graphic-design-project-202102060546%E2%80%A6 28 https://mamakriau.com/
+//images/detail/web-app-development-20210206054912.png 1 https://mamakriau.com/project/detail/foro-appio-mansion-hotel
+/images/product/saltnet-20210201015546.png 2 -
+//images/category/web-app-development-20210226004933.%E2%80%A6 14 https://mamakriau.com/
+/contact.html 2 https://mamakriau.com/about
+//theme/src/plugins/apexcharts/apexcharts.min.js 2 https://mamakriau.com/administrator/dashboard
+/administrator/assets/css/bootstrap-dark.min.css 225 https://mamakriau.com/administrator/dashboard
+/administrator/assets/images/services-icon/04.png 44 https://mamakriau.com/administrator/dashboard
+//dark-mode/assets/img/portfolio/works/7.jpg 1 https://mamakriau.com/project/detail/waste-medic
+//images/category/javtore-indonesia-20210110023045.png 1 https://mamakriau.com/project/category/strategic-brand-solution
+//assets/js/plugins.js 50 https://mamakriau.com/project
+/images/contact/test.png 6 https://mamakriau.com/administrator/contact
+/administrator/assets/images/flags/spain_flag.jpg 41 https://mamakriau.com/administrator/dashboard
+/store/rss/catalog/notifystock 1 -
+//images/category/javtore-20210207012918.png 1 https://mamakriau.com/project/detail/javtore
+//assets/img/portfolio/works/5.jpg 1 https://mamakriau.com/project/detail/waste-medic
+//images/category/strategic-brand-solution-2021020605%E2%80%A6 30 https://mamakriau.com/
+/staging/rss/catalog/notifystock 1 -
+//images/category/strategic-brand-solution-2021020100%E2%80%A6 4 https://mamakriau.com/
+//images/support/takfokus-sverige-ab-20210226003804.p%E2%80%A6 8 https://mamakriau.com/
+/shop/index.php/admin/ 1 -
+/images/product/ben-maher-20210201015032.png 3 -
+/magento/rss/catalog/review 1 -
+/images/support/takfokus-sverige-ab-20210204060811.png 1 -
+//assets/img/insta/2.jpg 421 https://mamakriau.com/about
+/project/img/logo-light.png 1 https://mamakriau.com/project/
+/store/rss/catalog/review 1 -
+/images/book/adobe-corner-20210201013553.jpg 1 https://mamakriau.com/administrator/book/edit/2
+//dark-mode/assets/img/portfolio/works/3.jpg 1 https://mamakriau.com/project/detail/waste-medic
+//images/category/web-app-development-20210131032445.%E2%80%A6 4 https://mamakriau.com/
+/administrator/calendar.html 7 https://mamakriau.com/administrator/dashboard
+//assets/img/portfolio/works/7.jpg 1 https://mamakriau.com/project/detail/waste-medic
+//images/support/takfokus-sverige-ab-20210204060811.p%E2%80%A6 14 https://mamakriau.com/
+//theme/vendors/images/github.svg 1 https://mamakriau.com/administrator/dashboard
+//images/blog/dont-pay-big-city-prices-20210216130822%E2%80%A6 3 https://mamakriau.com/
+/administrator/assets/images/logo-dark.png 41 https://mamakriau.com/administrator/dashboard
+//website/wp-includes/wlwmanifest.xml 1 -
+/images/detail/default.png 1 https://mamakriau.com/administrator/detail
+/downloader/index.php 1 -
+/old/index.php/admin/ 1 -
+/administrator/assets/images/users/user-2.jpg 45 https://mamakriau.com/administrator/dashboard
+/magento/rss/order/new 1 -
+//wordpress/wp-includes/wlwmanifest.xml 1 -
+/images/category/web-app-development-20210206054912.png 1 -
+//site/wp-includes/wlwmanifest.xml 1 -
+/images/product/familyassetallocatorcom-20210201015152.png 1 -
+/images/category/little-john-20210202020206.png 1 https://mamakriau.com/administrator/product
+//xmlrpc.php 1 -
+/store/rss/order/new 1 -
+/images/product/image 1 https://mamakriau.com/administrator/dashboard
+/images/product/test-20210201020222.png 2 -
+/images/support/software-developer-20210111015210.png 1 https://mamakriau.com/administrator/author
+//images/product/the-affiliate-incubator-202102060859%E2%80%A6 10 https://mamakriau.com/
+/rss/catalog/review 1 -
+//theme/vendors/styles/icon-font.min.css 1 https://mamakriau.com/administrator/dashboard
+/administrator/assets/images/users/user-4.jpg 46 https://mamakriau.com/administrator/dashboard
+//images/category/software-developer-20210111015210.png 1 https://mamakriau.com/project/category/strategic-brand-solution
+/shop/rss/catalog/review 1 -
+/staging/rss/catalog/review 1 -
+/images/product/beautybubbleno-20210201014922.png 2 -
+/theme/css/app-.min.css 2 https://mamakriau.com/administrator/dashboard
+//wp-includes/wlwmanifest.xml 1 -
+/assets/images/logo-dark.png 2 https://mamakriau.com/login
+//dark-mode/assets/img/portfolio/works/2.jpg 1 https://mamakriau.com/project/detail/waste-medic
+/administrator/assets/images/services-icon/03.png 44 https://mamakriau.com/administrator/dashboard
+//images/support/phoenixsolarpanelsystemscom-20210131%E2%80%A6 2 https://mamakriau.com/
+//dark-mode/assets/img/portfolio/works/6.jpg 1 https://mamakriau.com/project/detail/waste-medic
+/images/category/familyassetallocatorcom-20210202020047.png 1 https://mamakriau.com/administrator/product
+/errors/503.php 1 -
+/shop/errors/503.php 1 -
+/images/support/javtore-indonesia-20210131062854.png 1 -
+/images/contact/085692650482 4 https://mamakriau.com/administrator/contact
+//images/blog/design-trend-2021-20210201013055.jpg 2 https://mamakriau.com/
+//images/blog/%3Cdiv%20style= 3 https://mamakriau.com/blog
+//assets/js/jquery-3.0.0.min.js 31 https://mamakriau.com/project
+/images/support/phoenixsolarpanelsystemscom-20210202111152.png 1 -
+//images/user/avatar.png 87 https://mamakriau.com/administrator/dashboard
+//theme/vendors/scripts/core.js 2 https://mamakriau.com/administrator/dashboard
+/theme/assets/libs/chartist/chartist.min.css 15 https://mamakriau.com/administrator/dashboard
+//theme/vendors/scripts/layout-settings.js 2 https://mamakriau.com/administrator/dashboard
+//theme/vendors/scripts/process.js 2 https://mamakriau.com/administrator/dashboard
+//assets/js/jquery-migrate-3.0.0.min.js 44 https://mamakriau.com/project
+//images/category/graphic-design-project-202101310316%E2%80%A6 4 https://mamakriau.com/
+/images/blog/dont-pay-big-city-prices-20210216130822.png 1 -
+/images/support/software-developer-20210115134928.png 1 https://mamakriau.com/administrator/author
+/test/errors/503.php 1 -
+//images/support/phoenixsolarpanelsystemscom-20210226%E2%80%A6 8 https://mamakriau.com/
+//images/product/graphic-design-project-20210205233731.png 1 https://mamakriau.com/project/detail/cinelight
+//images/blog/how-to-build-a-great-brand-identity-202%E2%80%A6 29 https://mamakriau.com/
+//images/category/software-developer-20210115134928.png 1 https://mamakriau.com/project/category/strategic-brand-solution
+/images/icon/our-goals-20210201160412.gif 1 -
+//theme/src/plugins/datatables/css/dataTables.bootstrap4.min.css 1 https://mamakriau.com/administrator/dashboard
+//images/category/strategic-brand-solution-2021022809%E2%80%A6 24 https://mamakriau.com/
+//images/product/familyassetallocatorcom-202102010151%E2%80%A6 4 https://mamakriau.com/
+//wp/wp-includes/wlwmanifest.xml 1 -
+/login 6 https://mamakriau.com/administrator/dashboard
+/test/rss/catalog/review 1 -
+/images/product/software-developer-20210131092820.png 1 https://mamakriau.com/administrator/team
+/images/support/javtore-indonesia-20210202111130.png 1 -
+/administrator/assets/images/small/img-2.jpg 44 https://mamakriau.com/administrator/dashboard
+/images/category/cinelight-20210202015753.png 1 https://mamakriau.com/administrator/product
+/staging/rss/order/new 1 -
+/images/contact/2067222311 4 https://mamakriau.com/administrator/contact
+/demo/downloader/index.php 1 -
+/administrator/assets/css/app-dark.min.css 227 https://mamakriau.com/administrator/dashboard
+/images/product/developer-opps-20210131194836.png 1 https://mamakriau.com/administrator/team
+//images/blog/brand-immersion-value-in-marketing-stra%E2%80%A6 21 https://mamakriau.com/
+//assets/img/portfolio/works/4.jpg 1 https://mamakriau.com/project/detail/waste-medic
+/images/category/web-app-development-20210202211343.png 1 -
+//assets/img/portfolio/works/8.jpg 1 https://mamakriau.com/project/detail/waste-medic
+//dark-mode/assets/img/portfolio/works/5.jpg 1 https://mamakriau.com/project/detail/waste-medic
+/administrator/email 1 https://mamakriau.com/administrator/email
+/images/support/cinelightcom-20210131175128.png 2 -
+//theme/vendors/styles/style.css 1 https://mamakriau.com/administrator/dashboard
+/administrator/assets/css/bootstrap.min.css 27 https://mamakriau.com/administrator/dashboard
+//assets/img/portfolio/works/1.jpg 1 https://mamakriau.com/project/detail/waste-medic
+/images/product/wwwcocovesa-20210116000951.png 1 -
+/store/errors/503.php 1 -
+/administrator/assets/images/users/user-6.jpg 44 https://mamakriau.com/administrator/dashboard
+/old/rss/catalog/notifystock 1 -
+/theme/assets/css/app.min.css 16 https://mamakriau.com/administrator/dashboard
+/administrator/ 1 -
+//images/category/graphic-design-project-202102280930%E2%80%A6 24 https://mamakriau.com/
+//images/product/familyassetallocatorcom-202102020200%E2%80%A6 10 https://mamakriau.com/
+//dark-mode/assets/img/portfolio/works/1.jpg 1 https://mamakriau.com/project/detail/waste-medic
+/img/slid/1.jpg 41 https://mamakriau.com/about
+/images/team/team-support-20210131195413.png 1 -
+/demo/rss/catalog/review 1 -
+/store/index.php/admin/ 1 -
+/images/product/angeles-contables-20210201172413.png 2 -
+/images/support/javtore-indonesia-20210110023045.png 1 https://mamakriau.com/administrator/author
+/administrator/assets/images/users/user-3.jpg 45 https://mamakriau.com/administrator/dashboard
+/administrator/assets/images/logo.svg 41 https://mamakriau.com/administrator/dashboard
+//assets/img/insta/1.jpg 421 https://mamakriau.com/about
+/test/rss/catalog/notifystock 1 -
+/theme/assets/css/icons.min.css 16 https://mamakriau.com/administrator/dashboard
+/images/contact/089675430007 4 https://mamakriau.com/administrator/contact
+/theme//theme/css/bootstrap.min.css 7 https://mamakriau.com/administrator/dashboard
+/demo/errors/503.php 1 -
+/images/about/mamak-riau-20210111222053.png 3 https://mamakriau.com/administrator/seo/edit/1
+/images/blog/how-to-build-a-great-brand-identity-20210216130842.png 1 -
+/images/product/our-goals-20210201192820.png 2 https://mamakriau.com/administrator/icon
+/old/errors/503.php 1 -
+/images/category/089675430007 1 https://mamakriau.com/administrator/contact/edit/6
+//theme/vendors/styles/core.css 1 https://mamakriau.com/administrator/dashboard
+/images/word/software-developer-20210111015210.png 2 https://mamakriau.com/administrator/author
+/administrator/assets/css/app.min.css 27 https://mamakriau.com/administrator/dashboard
+/images/product/test-20210201020132.png 2 -
+/staging/downloader/index.php 1 -
+//images/product/cinelight-photography-20210206083505%E2%80%A6 10 https://mamakriau.com/
+/demo/rss/catalog/notifystock 1 -
+//wp2/wp-includes/wlwmanifest.xml 1 -
+/test/downloader/index.php 1 -
+//2018/wp-includes/wlwmanifest.xml 1 -
+//images/category/strategic-brand-solution-2021022600%E2%80%A6 14 https://mamakriau.com/
+//dark-mode/assets/img/portfolio/works/4.jpg 1 https://mamakriau.com/project/detail/waste-medic
+/administrator/assets/images/flags/french_flag.jpg 41 https://mamakriau.com/administrator/dashboard
+/images/category/web-app-development-20210131032445.png 2 -
+//assets/img/portfolio/works/2.jpg 1 https://mamakriau.com/project/detail/waste-medic
+//images/blog/dont-pay-big-city-prices-20210212102439%E2%80%A6 6 https://mamakriau.com/
+//images/support/theaffiliateincubatorcom-20210226003%E2%80%A6 8 https://mamakriau.com/
+//blog/wp-includes/wlwmanifest.xml 1 -
+//theme/src/plugins/datatables/js/jquery.dataTables.min.js 2 https://mamakriau.com/administrator/dashboard
+/images/category/kimia-20210202020111.png 1 https://mamakriau.com/administrator/product
+/project/index.php 1 -
+/dev/errors/503.php 1 -
+/images/product/cinelight-photography-20210206083505.png 1 -
+/images/author/default.png 15 https://mamakriau.com/administrator/navbar
+/images/category/test.png 2 https://mamakriau.com/administrator/contact/edit/7
+/theme//theme/css/app.min.css 7 https://mamakriau.com/administrator/dashboard
+/images/logo/mamakriau-20210131234846.png 1 -
+//theme/vendors/images/mamakriau.png 1 https://mamakriau.com/administrator/dashboard
+/images/product/our-vision-20210201193217.png 2 https://mamakriau.com/administrator/icon
+/staging/errors/503.php 1 -
+/store/downloader/index.php 1 -
+/images/category/graphic-design-project-20210206054650.png 1 -
+/images/category/waste-medic-20210202015826.png 1 https://mamakriau.com/administrator/product
+/shop/rss/order/new 1 -
+/images/category/mata-hati-20210202020216.png 1 https://mamakriau.com/administrator/product
+//assets/js/scripts.js 53 https://mamakriau.com/project
+/administrator/dashboard 3 https://mamakriau.com/login
+/administrator/assets/images/services-icon/02.png 44 https://mamakriau.com/administrator/dashboard
+//images/support/phoenixsolarpanelsystemscom-20210202%E2%80%A6 14 https://mamakriau.com/
+/images/navbar/default.png 72 https://mamakriau.com/administrator/navbar
+/index.php/admin/ 2 -
+/dev/rss/order/new 1 -
+//web/wp-includes/wlwmanifest.xml 1 -
+/administrator/assets/images/flags/italy_flag.jpg 41 https://mamakriau.com/administrator/dashboard
+/images/product/cinelight-20210201172336.png 2 -
+//images/support/theaffiliateincubatorcom-20210228094%E2%80%A6 12 https://mamakriau.com/
+/staging/index.php/admin/ 1 -
+/shop/downloader/index.php 1 -
+/images/product/team-support-20210131195413.png 1 https://mamakriau.com/administrator/team
+/administrator/assets/css/app-rtl.min.css 1 https://mamakriau.com/administrator/dashboard
+/project/contact 1 https://mamakriau.com/project/
+//assets/img/insta/3.jpg 421 https://mamakriau.com/about
+/shop/rss/catalog/notifystock 1 -
+//images/word/326780-P9JGF8-718.jpg 5 https://mamakriau.com/
+/img/logo-light.png 18 https://mamakriau.com/project
+/administrator/assets/images/users/user-5.jpg 44 https://mamakriau.com/administrator/dashboard
+/index.php/admin 1 -
+//images/support/theaffiliateincubatorcom-20210202111%E2%80%A6 14 https://mamakriau.com/
+//cms/wp-includes/wlwmanifest.xml 1 -
+/administrator/assets/images/flags/germany_flag.jpg 41 https://mamakriau.com/administrator/dashboard
+/images/book/remove-background-20210201013818.jpg 1 https://mamakriau.com/administrator/book/edit/3
+/dev/rss/catalog/review 1 -
+/images/category/fmsco-20210202020011.png 1 https://mamakriau.com/administrator/product
+//assets/img/portfolio/works/6.jpg 1 https://mamakriau.com/project/detail/waste-medic
+/administrator/assets/images/logo-sm.png 41 https://mamakriau.com/administrator/dashboard
+//assets/img/pattern.png 93 https://mamakriau.com/about
+//images/category/graphic-design-project-202102260029%E2%80%A6 16 https://mamakriau.com/
+//theme/src/plugins/datatables/css/responsive.bootstrap4.min.css 1 https://mamakriau.com/administrator/dashboard
+/LOGIN 1 -
+/old/rss/order/new 1 -
+/administrator/assets/images/services-icon/01.png 44 https://mamakriau.com/administrator/dashboard
+/images/category/saltnet-20210202020143.png 1 https://mamakriau.com/administrator/product
+//assets/img/portfolio/works/3.jpg 1 https://mamakriau.com/project/detail/waste-medic
+/magento/index.php/admin/ 1 -
+//images/blog/dont-pay-big-city-prices-20210226004047%E2%80%A6 20 https://mamakriau.com/
+/images/category/test-20210203220158.png 1 https://mamakriau.com/administrator/product
+//assets/dark-mode/css/images/close.png 7 https://mamakriau.com//assets/dark-mode/css/plugins/YouTubePopUp.css
+/magento/downloader/index.php 1 -
+/images/product/waste-medic-20210201172428.png 1 -
+/images/category/2067222311 1 https://mamakriau.com/administrator/contact/edit/4
+/images/product/our-mission-20210201193204.png 2 https://mamakriau.com/administrator/icon
+/images/word/default.png 1 https://mamakriau.com/administrator/word
+//theme/src/plugins/datatables/js/responsive.bootstrap4.min.js 2 https://mamakriau.com/administrator/dashboard
+/images/product/founder-20210131195129.png 1 https://mamakriau.com/administrator/team
+//images/support/theaffiliateincubatorcom-20210131175%E2%80%A6 2 https://mamakriau.com/
+/images/category/yng-boy-20210202020230.png 1 https://mamakriau.com/administrator/product
+/old/rss/catalog/review 1 -
+/administrator/assets/images/layouts/layout-3.jpg 1 https://mamakriau.com/administrator/dashboard
+//images/support/takfokus-sverige-ab-20210228094149.p%E2%80%A6 12 https://mamakriau.com/
+/images/product/test-20210131141648.png 1 https://mamakriau.com/administrator/book/edit/1
+/magento/errors/503.php 1 -
+/images/book/design-trend-2021-20210211213818.png 1 https://mamakriau.com/administrator/book/edit/1
+/js/mage/cookies.js 1 -
+/dev/downloader/index.php 1 -
+//theme/src/plugins/datatables/js/dataTables.bootstrap4.min.js 2 https://mamakriau.com/administrator/dashboard
+/administrator/assets/images/flags/us_flag.jpg 41 https://mamakriau.com/administrator/dashboard
+/demo/index.php/admin/ 1 -
+/images/product/ui-ux-designer-20210131092841.png 1 https://mamakriau.com/administrator/team
+/images/support/theaffiliateincubatorcom-20210131175310.png 2 -
+/dev/rss/catalog/notifystock 1 -
+/test/rss/order/new 1 -
+/rss/catalog/notifystock 1 -
+//news/wp-includes/wlwmanifest.xml 1 -
+/robots.txt 1 -
+/images/word/javtore-indonesia-20210110023045.png 2 https://mamakriau.com/administrator/author
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 237
+36.80.213.193 3093 8118 460754415 20210210055136
+36.73.54.229 2714 4229 145582527 20210219030607
+36.72.213.186 2207 10013 727428478 20210215145134
+36.72.212.13 805 2742 270847070 20210203045216
+180.254.121.116 789 2161 107844510 20210228222106
+180.254.85.24 383 1329 92187696 20210223104222
+180.254.111.106 352 614 22603843 20210223231752
+36.81.66.174 321 1130 122288752 20210201044654
+3.83.164.208 29 73 5105187 20210212130319
+94.130.93.30 29 40 1152632 20210226012517
+144.217.181.87 25 110 6373744 20210218123449
+172.255.48.134 20 212 8511123 20210228115423
+36.81.50.221 16 78 10087931 20210213002933
+54.219.181.191 16 16 30689 20210216102544
+159.8.227.117 15 108 5808614 20210226012437
+172.255.48.141 15 159 4464670 20210228113056
+172.255.48.145 15 159 4909425 20210228120111
+111.92.162.132 14 161 9811273 20210225224532
+104.236.158.24 10 57 1432585 20210228120322
+172.255.48.140 10 106 3219668 20210226014838
+172.255.48.146 10 106 2863820 20210228111627
+114.4.4.197 10 101 8657005 20210219204134
+172.255.48.144 10 106 2854839 20210228120014
+178.162.198.118 9 104 2890316 20210226022522
+128.199.232.151 9 103 8366476 20210223225021
+192.241.198.14 4 51 1460050 20210228120300
+31.13.103.21 0 3 498902 
+3.141.11.226 4 48 5617377 20210202222158
+34.77.30.84 1 1 5780 20210223223141
+34.219.123.4 1 1 5756 20210227074142
+114.4.4.135 2 21 1275377 20210219203941
+114.142.168.3 5 50 6023567 20210202122238
+110.50.80.196 8 98 6592692 20210211175408
+36.72.213.219 7 62 6164521 20210211111947
+34.77.162.9 1 1 22528 20210227071607
+110.50.81.200 4 35 2079483 20210220171551
+182.2.73.103 7 68 8231755 20210224230414
+10.64.49.29 1 1 22461 20210226095516
+173.252.127.3 0 1 200249 
+173.252.95.18 2 13 1378559 20210205085307
+188.143.1.124 1 1 5758 20210223004744
+31.13.127.10 0 1 1503 
+31.13.127.120 0 1 1503 
+101.203.171.70 4 47 2911767 20210205225904
+110.50.81.196 4 47 2935364 20210204014837
+103.249.65.5 8 99 9866006 20210211181107
+173.252.87.22 0 1 1503 
+31.13.127.11 1 1 5964 20210205085326
+172.255.48.130 5 53 1431907 20210228110556
+69.171.251.16 0 1 37961 
+103.11.28.69 3 20 409674 20210202165722
+202.152.130.4 4 48 4246095 20210211175412
+173.252.95.15 0 8 615021 
+173.252.111.4 0 1 1503 
+173.252.127.35 0 1 200249 
+31.13.115.11 1 2 7469 20210205085342
+173.252.95.117 0 11 1719413 
+18.216.116.81 2 2 11543 20210218123433
+31.13.103.13 0 2 201752 
+89.22.101.69 1 1 5743 20210228202505
+31.13.103.20 1 2 501861 20210205085345
+172.105.189.11 1 1 0 20210223225021
+173.252.95.112 0 4 372536 
+134.209.168.136 1 1 0 20210223225019
+31.13.103.118 0 1 1503 
+34.213.124.64 2 2 11512 20210228075006
+172.105.196.170 1 1 0 20210223225021
+111.92.162.134 4 47 2935365 20210204014440
+66.42.74.127 1 1 5969 20210204103706
+203.176.177.5 4 35 2079546 20210218173815
+173.252.111.21 0 1 1503 
+69.171.249.116 0 1 321 
+34.216.92.243 1 1 5729 20210226053021
+31.13.103.2 1 2 7468 20210205085402
+66.70.181.163 2 2 11910 20210202172519
+103.31.46.196 4 35 2079485 20210220065453
+18.144.43.128 4 20 375742 20210216102537
+107.178.236.2 5 52 1399985 20210228113402
+45.121.219.6 4 51 6504576 20210204064523
+31.13.103.15 0 1 29261 
+114.4.4.137 4 51 5790810 20210204023538
+43.230.130.5 4 51 5791152 20210204041446
+35.80.8.228 1 1 5738 20210226001457
+52.27.72.89 1 1 5739 20210225071702
+114.142.171.51 8 53 6966923 20210218175643
+138.246.253.24 1 1 0 20210225183249
+125.166.230.31 4 41 3654965 20210223221917
+52.37.1.14 1 1 5731 20210226072419
+3.209.248.24 0 1 26749 
+172.255.48.143 5 53 1427416 20210228113648
+94.228.142.98 1 1 5651 20210215171801
+69.171.251.10 0 1 50580 
+173.252.107.22 0 1 1503 
+64.44.48.197 1 1 5747 20210220190053
+34.211.68.171 1 1 5911 20210201072129
+54.151.8.253 0 1 26749 
+173.252.95.118 1 14 1583633 20210205085259
+173.252.111.117 0 1 1503 
+173.252.107.17 0 1 1503 
+10.64.49.25 1 1 22461 20210226095409
+69.50.234.201 1 1 4413 20210209212813
+192.95.9.246 1 4 40905 20210218123507
+173.252.95.116 0 5 1110300 
+172.255.48.142 5 53 1609831 20210226112451
+159.89.166.235 1 1 0 20210223225020
+13.58.103.209 2 2 45148 20210224133553
+69.171.251.13 0 1 1503 
+66.96.224.197 4 35 2079485 20210220082428
+66.102.7.197 5 36 3654573 20210222143103
+180.246.40.12 5 55 7598801 20210224062259
+66.249.88.73 1 1 4447 20210207225519
+104.155.89.221 5 33 3114130 20210216041858
+35.80.5.230 1 1 5740 20210225071709
+185.172.148.96 2 2 0 20210223225017
+103.11.28.134 4 47 2934616 20210204052549
+163.172.22.83 1 1 5846 20210212100915
+173.252.107.14 1 1 5965 20210205085326
+66.102.6.1 1 1 4445 20210207225451
+182.2.69.218 4 52 4277700 20210223214635
+36.72.213.105 4 23 811923 20210217150902
+173.252.95.9 1 14 1641355 20210205085259
+182.2.38.235 1 20 2016512 20210226131255
+173.252.107.24 0 1 1503 
+103.108.94.167 1 1 34463 20210202074244
+110.50.81.199 2 13 673496 20210203144939
+137.226.113.44 1 1 5718 20210225225856
+31.13.115.3 0 10 1668021 
+173.252.111.9 0 1 1503 
+139.99.114.235 7 7 146017 20210215093119
+192.95.9.249 0 2 7821 
+31.13.103.16 0 2 466322 
+175.45.186.196 2 21 1381698 20210220082436
+13.66.139.79 0 1 2910 
+202.43.172.4 4 51 4183209 20210221204044
+103.26.211.5 4 35 2079469 20210226002540
+182.2.39.255 1 1 5028 20210226131423
+66.96.224.198 4 32 2075416 20210211082937
+3.91.179.124 4 50 5076408 20210212130307
+172.255.48.147 5 53 1609832 20210226010650
+31.13.115.24 3 12 1540083 20210205085331
+69.171.251.26 0 1 47440 
+173.252.107.12 0 1 1503 
+35.162.58.36 0 1 145320 
+192.71.42.108 1 1 5753 20210228002202
+92.118.160.1 1 1 22497 20210222014155
+114.4.4.201 6 62 6137755 20210216095225
+31.13.115.22 0 7 183166 
+34.222.211.163 1 1 5729 20210226072420
+44.234.25.90 1 1 5971 20210204071807
+34.86.35.245 1 1 22574 20210224015512
+104.236.180.143 1 1 0 20210223225020
+178.62.192.35 1 1 0 20210223225018
+103.3.222.182 6 52 5679411 20210203151851
+52.11.2.206 0 1 35040 
+182.2.38.247 4 35 1204543 20210226131139
+5.188.62.76 1 1 5740 20210225115052
+69.171.251.25 0 1 32661 
+31.13.103.24 0 1 200249 
+173.252.95.19 1 11 1786613 20210205085308
+195.201.7.190 4 51 7175491 20210206013321
+31.13.103.12 0 3 269079 
+52.10.18.95 0 1 5588 
+156.146.56.116 2 2 45058 20210226163709
+44.229.42.173 1 1 5757 20210228071645
+158.140.170.153 3 51 1367234 20210228222517
+52.1.142.48 8 102 3290116 20210226012332
+69.171.251.4 0 1 1503 
+69.171.251.116 0 1 82530 
+18.236.135.146 0 1 2910 
+13.66.139.29 0 3 185948 
+45.121.219.7 4 9 221405 20210221202140
+69.171.251.22 0 1 36855 
+192.95.9.147 0 4 54498 
+69.171.251.118 0 1 24681 
+192.95.9.140 0 4 36489 
+36.72.218.95 5 61 4548516 20210224205214
+54.205.133.217 1 1 5665 20210216102538
+110.50.81.201 4 48 5048073 20210216121606
+34.76.250.251 2 27 1718685 20210216041918
+35.161.132.42 1 1 5756 20210227074144
+20.83.170.80 2 2 45058 20210226231927
+101.203.171.68 3 23 1309962 20210203150735
+18.197.193.89 1 1 5779 20210223214911
+31.13.103.119 0 1 1503 
+173.252.127.8 1 1 5965 20210205085325
+192.95.9.223 0 4 24080 
+173.252.95.119 3 13 1407860 20210205085309
+31.13.115.15 0 1 1503 
+46.101.53.88 1 1 0 20210223225018
+103.11.28.197 4 32 3080245 20210216121617
+203.176.177.6 4 51 4183193 20210225235327
+31.13.115.2 0 6 1157740 
+54.254.232.29 2 2 44938 20210225224506
+66.102.7.201 3 38 3176667 20210207225456
+54.219.1.191 1 2 48775 20210216102522
+173.252.111.118 0 1 1503 
+34.212.233.159 0 2 22748 
+150.129.59.5 2 20 779908 20210214083540
+31.13.127.8 0 1 266073 
+173.252.87.24 0 2 3006 
+173.252.95.23 0 9 1393864 
+172.255.48.131 5 53 1609832 20210226005023
+44.242.144.34 1 1 5911 20210201072035
+69.171.251.3 0 1 21203 
+31.13.103.1 0 1 266073 
+62.115.15.146 1 1 20062 20210208094926
+31.13.115.8 1 13 1504882 20210205085319
+173.252.107.120 0 1 1503 
+164.90.147.123 1 1 5729 20210226031527
+94.228.142.110 1 1 5651 20210215171804
+192.95.9.142 0 2 151011 
+110.50.80.197 4 51 3917001 20210218114400
+173.252.107.119 0 1 1503 
+138.68.180.18 7 7 27097 20210227051037
+31.13.127.112 1 1 5966 20210205085346
+103.11.28.198 4 47 2935365 20210204015415
+69.171.251.18 0 1 39952 
+54.164.0.114 0 1 665 
+31.13.103.10 0 2 30764 
+31.13.115.117 0 1 495896 
+198.58.116.219 1 1 0 20210223225019
+36.80.201.219 5 50 4325159 20210208065540
+162.243.148.27 4 51 1460057 20210228120300
+103.22.242.5 2 20 356635 20210219205251
+173.252.111.20 0 1 1503 
+31.13.115.13 0 4 452186 
+20.184.3.245 2 2 45020 20210224230259
+31.13.103.7 0 1 1503 
+66.102.7.199 5 37 1416002 20210222143348
+31.13.127.13 0 1 1503 
+54.176.205.175 0 2 53498 
+110.50.81.198 4 12 223144 20210212055513
+69.171.251.15 0 2 26311 
+173.212.233.72 1 1 34330 20210204091755
+54.189.128.201 1 1 5807 20210218144639
+66.220.149.25 0 1 28355 
+81.95.148.237 1 1 5025 20210226012417
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20210201 617 2199 247645288 9
+20210202 511 1790 158595940 11
+20210203 878 1973 65144286 8
+20210204 666 2081 143415916 16
+20210205 173 831 64227654 21
+20210206 723 1982 119954424 5
+20210207 597 1866 106470509 13
+20210208 127 308 42396436 7
+20210209 52 148 11846925 8
+20210210 76 191 16930883 4
+20210211 1398 8199 595350834 11
+20210212 377 1199 93744173 9
+20210213 147 494 35381476 8
+20210214 275 476 30522157 7
+20210215 53 219 19686991 9
+20210216 483 999 59354449 12
+20210217 153 320 16331670 8
+20210218 2150 3305 99344199 16
+20210219 122 405 31645380 9
+20210220 124 527 46017411 15
+20210221 106 510 20435236 4
+20210222 47 173 13031666 10
+20210223 402 852 39607358 21
+20210224 81 378 31837171 10
+20210225 197 502 35957296 16
+20210226 309 1161 34524633 29
+20210227 94 281 19155652 9
+20210228 366 1931 71445918 21
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 11
+30mn-1h 23
+2mn-5mn 16
+15mn-30mn 13
+5mn-15mn 20
+1h+ 57
+0s-30s 186
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 242
+/ 1968 10087565 253 174
+/blog 1807 7319701 11 6
+/administrator/dashboard 823 6752843 4 8
+//assets/dark-mode/fonts/fa-solid-900.woff2 335 12986624 3 17
+//assets/dark-mode/fonts/Pe-icon-7-stroke.woff 327 19147812 0 14
+//assets/dark-mode/fonts/fa-brands-400.woff2 325 17686500 2 47
+/project 320 662346 3 5
+/about 316 1491142 14 16
+/administrator/book/edit/1 295 873831 0 0
+/administrator/product 219 1402352 2 1
+/blog/detail/dont-pay-big-city-prices 209 1189981 1 1
+/administrator/book 205 893664 0 0
+/login 198 265908 10 8
+/project/category/graphic-design-project 168 332472 1 1
+/administrator/seo 140 710614 1 3
+/blog/detail/How-to-build-a-great-brand-identity 133 1088041 1 0
+/administrator/word 133 612139 0 0
+/administrator/book/edit/3 128 425539 0 0
+/administrator/category 123 883104 1 1
+/administrator/word/edit/1 108 414830 1 0
+/administrator/book/create 108 539809 0 0
+/contact 102 322235 1 3
+/administrator/profile 89 727595 1 1
+/administrator/detail 86 496966 0 0
+/administrator/about 83 433437 1 0
+/administrator/profile/update/1 21 160826 0 0
+/theme/fonts/ionicons.woff2 2 101112 0 0
+/administrator/services/edit/2 1 6651 0 0
+/administrator/seo/ 2 13540 0 0
+/blog/detail/design-trend-2021 3 9543 0 1
+/administrator/category/create 22 179460 0 0
+/administrator/navbar/edit/5 2 10074 0 0
+/blog/detail/dont-underestimate-this-is-the-importance-of-awareness-engagement-before-becoming-profitable 37 263450 0 0
+/administrator/navbar/edit/4 2 10065 0 0
+/project/detail/indonesiatrip-id 17 41262 1 1
+/administrator/support/edit/4 5 16836 0 0
+/blog/detail/awareness-engagement-before-becoming-profitable 2 17292 0 0
+/administrator/navbar/edit/1 13 79759 0 0
+//theme/fonts/themify.woff 3 168324 0 0
+/administrator/product/edit/92 16 90895 0 0
+/administrator/category/edit/12 8 40908 0 0
+/project/detail/cinelight 59 164568 0 0
+/administrator/gallery/edit/1 1 3503 0 0
+/project/detail/fms.co 6 17562 0 0
+//assets/dark-mode/fonts/Pe-icon-7-stroke.ttf 1 58480 0 0
+/administrator/product/edit/88 11 61691 0 0
+/administrator/detail/edit/10 2 9200 0 0
+/administrator/team/edit/4 3 17167 0 0
+/theme/fonts/overpass/Overpass-Italic.woff2 3 131688 0 0
+//theme/fonts/overpass/Overpass-ExtraBold.woff2 10 407040 0 0
+/administrator/calendar.html 4 2459 0 0
+/project/detail/tecumsehs-book-ranch 5 11378 0 0
+/project/category/strategic-brand-solution 75 157757 0 0
+/blog/detail/brand-loyalty 12 50499 0 0
+/project/detail/familyassetallocator.com 1 2807 0 0
+//theme/fonts/overpass/Overpass-Light.woff2 4 162128 0 0
+/asset-manifest.json 13 7579 0 1
+/administrator/icon/edit/3 4 13719 0 0
+/administrator/banner 62 388441 0 0
+/project/detail/foro-appio-mansion-hotel 18 43370 0 0
+/blog/detail/blog/comment 3 7617 0 0
+/administrator/author/edit/2 3 14379 0 0
+/project/detail/project-details.html 8 14539 0 0
+/administrator/detail/edit/12 1 3785 0 0
+//theme/fonts/materialdesignicons-webfont.woff2 3 769116 0 0
+//theme/fonts/feather-font/fonts/feather.woff 13 383500 0 0
+/administrator/book/edit/5 24 122826 0 0
+//assets/dark-mode/js/swiper.min.js.map 13 7579 0 0
+/project/detail/javtore 20 47854 0 0
+/administrator/kategori/edit/1 1 3230 0 0
+/administrator/product/edit/91 10 55270 0 0
+/administrator/support/create 2 9981 0 0
+/administrator/product/edit/85 18 108109 0 0
+/administrator/author/edit/3 3 12452 0 0
+/administrator/contact/edit/4 1 5461 0 0
+//theme/fonts/ionicons.woff2 3 151668 0 0
+/project/detail/phoenix-solar-panel-system 8 17929 0 0
+/administrator/category/edit/10 6 37747 0 0
+//theme/vendors/fonts/ionicons.ttf 11 2073588 0 0
+/administrator/book/edit/8 6 35602 0 0
+/project/detail/brand%20guide 1 2377 0 0
+/administrator/detail/edit/3 3 16773 0 0
+/administrator/team/edit/5 1 3644 0 0
+/blog/detail/brand-immersion-value-in-marketing 3 13560 0 0
+/administrator/product/ 1 8498 0 0
+/administrator/gallery/create 6 20760 0 0
+/project/detail/angeles-contables 70 190121 1 2
+/index.php/sitemap.xml 1 665 0 0
+/project/detail/test 1 2843 0 0
+/theme/fonts/overpass/Overpass-Black.woff2 53 2079364 0 2
+/administrator/author/edit/1 4 22863 0 0
+/administrator/pages/auth/login.html 1 829 0 0
+/assets/dark-mode/js/swiper.min.js.map 2 1150 0 0
+/administrator/detail/edit/2 8 47383 0 0
+/contact/sendEmail 8 560 1 0
+/administrator/email 41 253682 0 0
+/project/detail/affiliate-incubator 1 2424 0 0
+/administrator/detail/edit/6 2 9218 0 0
+/administrator/seo/edit/1 50 215241 0 0
+/administrator/pages/email/inbox.html 2 1658 0 0
+/project/detail/benmaher 9 24770 0 0
+/administrator/kategori 15 67885 0 0
+/administrator/banner/edit/2 10 58433 0 0
+/administrator/services/edit/3 1 6642 0 0
+/administrator/feedback 8 58075 0 0
+/administrator/category/edit/17 6 34063 0 0
+/project/detail/the-affiliate-incubator 27 63924 1 0
+/project/detail/cocove 19 40735 2 0
+/administrator/calendar 10 54380 0 0
+/administrator/about/edit/2 36 175661 0 0
+/administrator/team/create 2 13716 0 0
+/administrator/support/edit/3 4 13324 0 0
+/demo_1/pages/email/compose.html 1 627 0 0
+/administrator/profile/update/8 2 15294 0 0
+/project/detail/exquisite-moon 4 7582 0 0
+/administrator/detail/edit/1 8 48103 0 0
+/administrator/team/edit/3 2 7396 0 0
+/administrator/product/edit/95 7 38093 0 0
+/test 1 627 0 0
+//assets/dark-mode/fonts/ionicons.ttf 4 754032 0 0
+/administrator/book/edit/7 2 18455 0 0
+/administrator/product/edit/87 8 44971 0 0
+//theme/fonts/overpass/Overpass-SemiBold.woff2 44 1632784 0 0
+/webmail 1 12994 0 1
+/project/detail/kimia 2 5578 0 0
+/administrator/icon/edit/1 8 32514 0 0
+/administrator/detail/edit/5 2 9270 0 0
+/theme/fonts/overpass/Overpass-SemiBold.woff2 55 1991200 0 0
+//assets/light-mode/fonts/Pe-icon-7-stroke.woff 15 878340 0 0
+//assets/dark-mode/fonts/Pe-icon-7-stroke.eot 4 234720 0 1
+/theme/fonts/overpass/Overpass-Bold.woff2 15 538928 0 0
+//assets/dark-mode/fonts/fa-brands-400.ttf 1 81920 0 0
+/project/detail/www-evos-gg 26 61937 0 0
+/administrator/navbar/edit/3 5 20458 0 0
+/administrator/book/edit/6 6 35877 0 0
+/administrator/support/edit/6 15 75961 0 0
+/administrator/detail/create 12 68203 0 0
+/administrator/product/edit/90 9 48545 0 0
+/blog/detail/adobe-corner 1 3308 0 0
+/administrator/contact 15 76193 0 0
+/administrator/logo 23 131682 0 0
+/contact/ 1 3319 0 0
+/administrator/icon 45 220723 0 0
+/project/detail/waste-medic 36 95006 2 0
+//assets/dark-mode/fonts/fa-regular-400.woff 3 44136 0 0
+/administrator/category/edit/11 8 40538 0 0
+//theme/fonts/overpass/Overpass-Regular.woff2 44 1712488 0 0
+/demo_2/dashboard-one.html 1 829 0 0
+/administrator/product/edit/94 8 46446 0 0
+/blog/detail/contact/sendEmail 1 2539 0 0
+/blog/detail/remove-background 7 23539 0 0
+/index.php/blog 3 12875 0 0
+/administrator/book/edit/10 8 73725 0 0
+/administrator/detail/edit/9 6 30703 0 0
+/blog/detail/brand-immersion-value-in-marketing-strategy 9 38980 0 0
+/administrator/product/edit/96 3 14484 0 0
+//theme/fonts/fa-solid-900.woff2 3 226068 0 0
+/administrator/services 35 204387 0 0
+/blog/detail/examples-of-good-branding-strategies 11 55439 0 0
+/administrator/banner/create 1 6788 0 0
+/index.php/login 2 2508 0 0
+/demo_1/dashboard-one.html 7 5145 0 0
+/project/detail/sets 4 10733 0 0
+/administrator/product/edit/93 8 41175 0 1
+/administrator/team/edit/1 4 21292 0 0
+/administrator/product/edit/84 24 166397 0 0
+/administrator/contact/edit/6 1 5450 0 0
+/administrator/pages/general/profile.html 1 829 0 0
+/administrator/author/create 2 10155 0 0
+/administrator/banner/edit/5 6 32587 0 0
+/project/detail/saltnet 3 9395 0 0
+/blog/detail/blog.html 3 7430 0 0
+/administrator/product/edit/89 8 42193 0 0
+/administrator/ 3 2075 0 0
+/AMk7D5zOvHj/UGM6MIsrLaWJA6bqb/ottrWggvNxzb/wUpjfUezlRGT1VW 1 665 0 0
+/blog/detail/can-help-increase-business 2 10778 0 0
+/administrator/support/edit/2 5 16808 0 0
+/administrator/author 34 196835 0 0
+//theme/fonts/overpass/Overpass-Black.woff2 44 1739876 0 0
+/project/detail/mata-hati 3 7395 0 0
+//assets/dark-mode/fonts/fa-solid-900.ttf 1 81920 0 0
+/administrator/services/create 4 26131 0 0
+/blog/detail/brand-design-strategy 33 120669 1 0
+/administrator/support 69 366107 0 0
+/thanks 65 36817 0 0
+/administrator/team/edit/6 3 12583 0 0
+/administrator/book/edit/9 2 9602 0 0
+/administrator/navbar/create 1 6773 0 0
+/administrator/dashboard-one.html 2 1658 0 0
+/projecthttps://mamakriau.com/project/category/strategic-brand-solution 2 1254 0 0
+/blog/detail/build-a-great-brand-identity 1 12318 0 0
+//theme/vendors/fonts/fontawesome-webfont.woff2 11 848760 0 0
+/administrator/gallery 11 38385 0 0
+/project/category/project 1 2862 0 0
+/administrator/detail/edit/8 2 11161 0 0
+/project/detail/cinelight-photography 62 160471 3 1
+/blog/detail/did-you-know-that-using-a-branding-agency-can-help-increase-business 10 40050 0 0
+/administrator/support/edit/1 7 30071 0 0
+//assets/dark-mode/fonts/fa-regular-400.woff2 1 12220 0 0
+/administrator/read.html 6 3554 0 0
+/administrator/banner/edit/1 7 36199 0 0
+//assets/dark-mode/fonts/fa-solid-900.woff 5 243520 0 1
+//theme/vendors/fonts/dropways.ttf 12 6537648 0 1
+/test/ 1 717 0 1
+/administrator/product/create 6 29335 0 0
+/blog/detail/blog/ 1 2539 0 0
+/administrator/detail/edit/4 3 12752 0 0
+/administrator/icon/edit/2 10 35919 0 0
+/project/ 9 19635 1 2
+/administrator/services/edit/1 3 18871 0 0
+/project/category/web-app-development 82 171684 0 1
+/administrator/pages/error/404.html 1 829 0 0
+/administrator/icon/create 2 13109 0 0
+/project/detail/about 6 11250 0 0
+//assets/dark-mode/fonts/fa-brands-400.woff 4 254848 0 1
+/administrator/navbar/edit/2 5 23900 0 0
+/administrator/team 65 424860 0 0
+/administrator/kategori/create 2 6406 0 0
+/administrator/detail/edit/11 2 8015 0 0
+/administrator/book/edit/4 11 57555 0 0
+/theme/fonts/themify.woff 2 112216 0 0
+/administrator/navbar 59 352896 0 0
+/administrator/pages/apps/chat.html 2 1658 0 0
+/project/category/blog 1 2862 0 0
+/theme/fonts/overpass/Overpass-Light.woff2 2 81064 0 0
+/administrator/contact/edit/7 2 10854 0 0
+/theme/fonts/overpass/Overpass-Regular.woff2 53 2046632 0 0
+/project/detail/contact 1 1875 0 0
+/administrator/logo/edit/1 4 26120 0 0
+/administrator/book/edit/2 44 300067 0 0
+/administrator/detail/edit/7 4 22437 0 0
+//assets/light-mode/fonts/fa-brands-400.woff2 15 816300 0 1
+/project/detail/yng-boy 2 5180 0 0
+//theme/fonts/overpass/Overpass-Bold.woff2 44 1699696 0 0
+//assets/light-mode/fonts/fa-solid-900.woff2 15 581760 0 0
+/theme/fonts/materialdesignicons-webfont.woff2 4 1025488 0 1
+//theme/fonts/overpass/Overpass-Italic.woff2 44 1799736 0 0
+/assets/dark-mode/css/plugins/bootstrap.min.css.map 2 1150 1 0
+/subscribe 11 6876 1 0
+/theme/fonts/fa-solid-900.woff2 2 150712 0 0
+/project/detail/little-john 2 5256 0 0
+/index.php/admin 1 627 0 0
+END_SIDER

@@ -1,0 +1,123 @@
+
+
+/* ====================== [ Start Heading ] ====================== */
+
+.sec-head{
+	position: relative;
+	margin: 0 auto 80px;
+
+	h6{
+		color: $main-color;
+		font-weight: 300;
+		font-size: 17px;
+		text-transform: uppercase;
+		letter-spacing: 14px;
+		margin-bottom: 5px;
+	}
+
+	h3{
+		font-size: 80px;
+		font-weight: 700;
+		text-transform: uppercase;
+		letter-spacing: 4px;
+		text-shadow: 0 8px rgba(255,255,255,.05);
+	}
+
+	.tbg{
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		width: 100%;
+		text-align: center;
+		font-size: 10vw;
+		font-weight: 700;
+		color: transparent;
+		-webkit-text-stroke: 1px rgba(255, 255, 255, 0.1);
+		opacity: .3;
+	}
+
+	&.tr-head{
+		text-align: right;
+		margin-bottom: 0;
+
+		.tbg{
+			text-align: left;
+		}
+	}
+}
+
+.sub-title{
+	position: relative;
+	padding-left: 20px;
+	margin-bottom: 20px;
+
+	h6{
+		font-family: 'Barlow Condensed', sans-serif;
+		font-weight: 300;
+		font-size: 16px;
+		text-transform: uppercase;
+		letter-spacing: 4px;
+	}
+
+	span{
+		width: 4px;
+		height: 4px;
+		border-radius: 50%;
+		background: $main-color;
+		position: absolute;
+		left: 6px;
+		bottom: 5px;
+
+		&:first-of-type{
+			bottom: 11px;
+		}
+
+		&:last-of-type{
+			left: 0px;
+		}
+	}
+}
+
+.main-title{
+	font-weight: 600;
+	line-height: 1.5;
+	margin-bottom: 15px;
+}
+
+.extra-title{
+	font-weight: 700;
+}
+
+.sm-title{
+	font-size: 14px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+.smore{
+	position: relative;
+	font-size: 20px;
+	font-weight: 300;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	display: inline-block;
+	padding: 5px;
+
+	&:after{
+		content: '';
+		width: 45%;
+		height: 100%;
+		background: rgba(255,255,255,.03);
+		position: absolute;
+		left: 0;
+		top: 0;
+	}
+
+	i{
+		margin-left: 10px;
+	}
+}
+
+
+/* ====================== [ End Heading ] ====================== */

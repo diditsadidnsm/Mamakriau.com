@@ -1,0 +1,193 @@
+# Webalizer V2.23-08 Incremental Data - 04/14/2021 07:44:00
+2021 4 14 7 44 0
+111 3 16 2 5 7 23443 109 21 0
+1 4 10 1 14
+1 1 0 1 1 1
+11 0 0 2 11 2
+10 0 0 1 10 1
+0 0 0 0 0 0
+10 0 0 1 10 1
+12 0 2472 3 12 3
+20 0 0 2 20 2
+11 0 1236 2 11 2
+18 0 8652 3 17 3
+2 0 0 1 2 2
+11 0 1236 2 11 2
+1 0 681 1 1 1
+0 0 0 0 0 0
+4 2 9166 1 3 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+1 0 1236 1
+10 0 0 10
+20 0 0 20
+20 0 0 20
+1 0 0 1
+10 0 0 10
+5 2 9166 4
+1 0 0 1
+0 0 0 0
+0 0 0 0
+10 0 0 10
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 1236 1
+10 0 11805 9
+0 0 0 0
+11 0 0 11
+10 0 0 10
+1 1 0 1
+0 0 0 0
+0 0 0 0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+105
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/cgi-sys/suspendedpage.cgi
+0 2 7341728 7804 0 0
+/
+0 1 8319045105058736492 0 21 5
+# End Of Table - urls
+# -sites- (monthly)
+m21.coreserver.jp
+0 1 0 1236 1 1617900779
+/
+ec2-18-192-13-242.eu-central-1.compute.amazonaws.com
+0 1 0 0 1 1617995226
+/
+ec2-54-202-45-10.us-west-2.compute.amazonaws.com
+0 20 0 0 2 1617851429
+/
+ec2-34-220-130-80.us-west-2.compute.amazonaws.com
+0 10 0 0 1 1617419073
+/
+unn-195-181-167-42.datapacket.com
+0 7 0 8652 1 1617989305
+-
+fpcpscplsk03.websitesource.com
+0 1 0 1236 1 1618104296
+/
+ec2-34-211-225-62.us-west-2.compute.amazonaws.com
+0 10 0 0 1 1617828202
+/
+165.227.180.144
+0 1 0 1236 1 1617729421
+/
+ec2-34-222-78-177.us-west-2.compute.amazonaws.com
+0 10 0 0 1 1617391383
+/
+ec2-34-222-146-200.us-west-2.compute.amazonaws.com
+0 10 0 0 1 1617778135
+/
+118.96.131.123
+0 4 2 9166 1 1618386240
+/cgi-sys/suspendedpage.cgi
+159.203.101.128
+0 1 0 1236 1 1617729625
+/
+ec2-34-211-70-65.us-west-2.compute.amazonaws.com
+0 10 0 0 1 1617942051
+/
+researchscanner03.eecs.berkeley.edu
+0 1 0 681 1 1618247651
+/
+planetlab24.gino-research.net.in.tum.de
+0 4 1 0 4 1618041928
+/
+ec2-54-190-118-208.us-west-2.compute.amazonaws.com
+0 20 0 0 2 1618108938
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+118.96.131.123
+0 4 2 9166 1 1618386240
+/cgi-sys/suspendedpage.cgi
+# End Of Table - sites (daily)
+# -referrers- 
+https://test.mamakriau.com/cgi-sys/suspendedpage.cgi
+0 2
+- (Direct Request)
+0 62
+http://test.mamakriau.com
+0 45
+http://test.mamakriau.com/wp-login.php
+0 1
+http://www.test.mamakriau.com/wp-login.php
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/5.0 (Linux; Android 10; CPH1937) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36
+0 4
+facebookexternalhit/1.1
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36
+0 90
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36
+0 4
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 9
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

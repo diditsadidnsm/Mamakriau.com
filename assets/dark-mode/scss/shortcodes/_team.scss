@@ -1,0 +1,162 @@
+
+
+/* ====================== [ Start Team ] ====================== */
+
+.team{
+	position: relative;
+
+	.team-container{
+		width: 140%;
+		position: relative;
+
+		&:after{
+			content: '';
+			position: absolute;
+			top: -120px;
+			bottom: -120px;
+			right: 0;
+			width: 80%;
+			background: #1a1e25;
+			z-index: -1;
+		}
+	}
+
+	.item{
+		padding: 0 15px;
+
+		.info{
+			padding: 15px;
+			background: #11141b;
+			text-align: center;
+			position: relative;
+			overflow: hidden;
+
+			h5{
+				font-size: 18px;
+				margin-bottom: 2px;
+				transition: all .3s;
+			}
+
+			span{
+				color: #999;
+				font-size: 14px;
+				transition: all .3s;
+			}
+
+			.social{
+				position: absolute;
+				bottom: -300px;
+				left: 0;
+				width: 100%;
+				height: 100%;
+				padding: 30px 5px 0;
+				z-index: 2;
+				opacity: 0;
+				transition: all .4s;
+
+				a{
+					font-size: 13px;
+					margin: 0 8px;
+					color: $main-color;
+				}
+			}
+		}
+
+		&:hover{
+
+			.info{
+
+				h5,span{
+					opacity: 0;
+				}
+
+				.social{
+					bottom: 0;
+					opacity: 1;
+				}
+			}
+		}
+	}
+
+	.navs{
+
+		.prev,.next{
+			color: #ccc;
+			font-size: 13px;
+			width: 55px;
+			height: 55px;
+			line-height: 55px;
+			text-align: center;
+			border-radius: 50%;
+			border: 1px solid rgba(255, 255, 255, 0.3);
+			position: static;
+		}
+	}
+
+	.slick-dots{
+		bottom: -40px;
+	}
+
+	.slick-dots li.slick-active button{
+		background: $main-color;
+	}
+
+	.slick-dots li button{
+		width: 10px;
+		height: 10px;
+		border-radius: 50%;
+		opacity: .8;
+
+		&:before{
+			content: '';
+			width: 4px;
+			height: 4px;
+			border-radius: 50%;
+			position: absolute;
+			top: 4px;
+			left: 4px;
+			line-height: 1;
+			background: $main-color;
+			opacity: 1;
+		}
+	}
+
+}
+
+.team-crv{
+
+	.img-box{
+
+		.img{
+			min-width: 150px !important;
+
+			&.sizxl{
+				width: 90%;
+			}
+
+			&.sizmd{
+				width: 65%;
+			}
+
+			&.sizsm{
+				width: 50%;
+			}
+		}
+
+		.toright{
+
+			.img{
+				margin-left: auto;
+			}
+		}
+
+		.toleft{
+
+			.img{
+				margin-right: auto;
+			}
+		}
+	}
+}
+
+/* ====================== [ End Team ] ====================== */

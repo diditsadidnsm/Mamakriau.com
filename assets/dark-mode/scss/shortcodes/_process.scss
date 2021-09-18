@@ -1,0 +1,53 @@
+
+/* ====================== [ Start services ] ====================== */
+
+.process{
+
+    .coulmn{
+        position: relative;
+
+        &:after{
+            position: absolute;
+            content: '';
+            width: 75px;
+            border-top: 2px dashed $main-color;
+            top: 75px;
+            right: -35px;
+        }
+    }
+
+	.item{
+        text-align: center;
+
+        .bg-img{
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            margin: 0 auto 30px;
+            text-align: center;
+            position: relative;
+
+            &:after{
+                content: '';
+                position: absolute;
+                top: 7px;
+                left: 7px;
+                right: 7px;
+                bottom: 7px;
+                border-radius: 50%;
+                background: rgba(0,0,0,.25);
+            }
+
+            h3{
+                color: #fff;
+                font-size: 40px;
+                font-weight: 300;
+                line-height: 150px;
+                position: relative;
+                z-index: 3;
+            }
+        }
+    }
+}
+
+/* ====================== [ End services ] ====================== */

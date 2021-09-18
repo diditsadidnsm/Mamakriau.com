@@ -1,0 +1,210 @@
+# Webalizer V2.23-08 Incremental Data - 03/19/2021 14:59:15
+2021 3 19 14 59 15
+117 94 5 19 9 5 1557397 46 7 0
+5 1 52 19 19
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+117 94 1557397 5 46 7
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+52 41 1072195 13
+46 41 437494 18
+0 0 0 0
+2 1 4878 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+6 4 15268 4
+7 6 21307 7
+1 0 1236 0
+2 0 1236 1
+1 1 3783 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+94
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+7
+0
+0
+0
+0
+0
+4
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/css/vendors.css
+0 4 29533728 100384 0 0
+/js/jquery-3.5.1.min.js
+0 4 29533952 121120 0 0
+/img/logo.png
+0 2 29534176 4326 0 0
+/js/modernizr.js
+0 4 29533840 60408 0 0
+/send_email_1.php
+0 1 29535504 914 0 0
+/js/func_1.js
+0 4 29534752 3827 0 0
+/img/favicon.ico
+0 6 29535392 8436 0 0
+/css/style.css
+0 4 29549920 22300 0 0
+/img/upload_icon.svg
+0 3 29534864 1728 0 0
+/css/bootstrap.min.css
+0 4 29549696 85880 0 0
+/css/icon_fonts/font/fontello.woff
+0 2 29535120 641152 0 0
+/js/file-validator.js
+0 4 29534640 5108 0 0
+/css/menu.css
+0 4 29549808 6092 0 0
+/
+0 37 29549440 99305 5 2
+/js/common_scripts.min.js
+0 4 29534400 319252 0 0
+/js/velocity.min.js
+0 4 29534064 47604 0 0
+/js/common_functions.js
+0 4 29534528 4468 0 0
+/img/info_graphic_1.svg
+0 2 29534288 7108 0 0
+/css/custom.css
+0 4 29533616 900 0 0
+# End Of Table - urls
+# -sites- (monthly)
+ec2-54-221-27-173.compute-1.amazonaws.com
+0 2 1 4878 1 1616126021
+/
+179.43.169.181
+0 6 0 5796 1 1616113507
+-
+65.154.226.165
+0 14 13 198241 1 1616117963
+/
+36.72.213.19
+0 78 69 1305652 1 1616118624
+/
+143.subnet125-163-176.speedy.telkom.net.id
+0 17 11 42830 3 1616165955
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+ec2-54-221-27-173.compute-1.amazonaws.com
+0 2 1 4878 1 1616126021
+/
+179.43.169.181
+0 6 0 5796 1 1616113507
+-
+65.154.226.165
+0 14 13 198241 1 1616117963
+/
+36.72.213.19
+0 78 69 1305652 1 1616118624
+/
+143.subnet125-163-176.speedy.telkom.net.id
+0 17 11 42830 3 1616165955
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://www.kd22sa3klsmaldm21dmsa2139fklfalmkfdmaklfmvcxm.mamakriau.com/css/style.css
+0 3
+https://kd22sa3klsmaldm21dmsa2139fklfalmkfdmaklfmvcxm.mamakriau.com/
+0 1
+https://www.kd22sa3klsmaldm21dmsa2139fklfalmkfdmaklfmvcxm.mamakriau.com/css/vendors.css
+0 2
+https://www.kd22sa3klsmaldm21dmsa2139fklfalmkfdmaklfmvcxm.mamakriau.com/send_email_1.php
+0 19
+- (Direct Request)
+0 11
+http://kd22sa3klsmaldm21dmsa2139fklfalmkfdmaklfmvcxm.mamakriau.com
+0 1
+https://mamakriau.com/
+0 15
+https://www.kd22sa3klsmaldm21dmsa2139fklfalmkfdmaklfmvcxm.mamakriau.com/
+0 60
+https://www.kd22sa3klsmaldm21dmsa2139fklfalmkfdmaklfmvcxm.mamakriau.com/index.html
+0 5
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36
+0 14
+Mozilla/5.0 (X11; Linux i686; rv:10.0) Gecko/20100101 Firefox/10.0
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+0 74
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36
+0 21
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
